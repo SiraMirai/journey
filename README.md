@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-[Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/65229 "Nexus Page") | [Wabbajack](https://www.wabbajack.org/ "Wabbajack")
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://www.wabbajack.org/">Wabbajack)</a>
 </p>
 
 ---
