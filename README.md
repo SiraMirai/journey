@@ -8,7 +8,7 @@
 
 ---
 
-**Download Journey: [Journey.wabbajack](https://github.com/SiraMirai/journey/releases/download/1.0-beta4.2/Journey-1.0-Beta4.2.wabbajack)**
+**Download Journey: [Journey.wabbajack](https://github.com/SiraMirai/journey/releases/download/1.0-beta4.3/Journey1.0beta4.3.wabbajack)**
 
 "You realize that all your life you have been coasting along as if you were in a dream. Suddenly, facing the trials of the last few days, you have come alive."
 
