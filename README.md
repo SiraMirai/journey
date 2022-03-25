@@ -22,7 +22,7 @@ The full contents of Journey can be found [here](https://loadorderlibrary.com/li
 
 # Installation
 
-Installation is handled by [Wabbajack](https://www.wabbajack.org/#/) for a one-click install of the modlist. For first time users, Journey has one dependency we need to pre-install.
+Installation is handled by [Wabbajack](https://www.wabbajack.org/#/) for a one-click install of the modlist. For first time users, Journey has one dependency that needs to be pre-installed.
 
 #### Stock Game
 Journey makes use of the **Stock Game** feature of MO2 and Wabbajack.
