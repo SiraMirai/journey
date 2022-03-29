@@ -82,7 +82,7 @@ The other common cause of this error is a mod was updated and its old files were
 Wabbajack will not work with pirated copies of Skyrim. If you own the game on steam, return to [Pre-Installation](#pre-installation).
 
 # Updating
-When Journey releases an update, please check the changelog under [releases](https://github.com/SiraMirai/journey/releases) before updating. **Always** back up your saves or start a new game after updating.
+When Journey releases an update, please check the [changelog](https://github.com/SiraMirai/journey/blob/main/CHANGELOG.md) before updating. **Always** back up your saves or start a new game after updating.
 
 Please note that Wabbajack will **delete all files that are not part of the modlist when it updates**! 
 
