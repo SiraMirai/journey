@@ -20,9 +20,9 @@
 - Updated JK’s Jorrvaskr to 1.1.2
 - DynDOLOD Resources updated to Alpha 23
 - Included version of DynDOLOD updated to Alpha 85
-- Added Skyland Landscapes Riverbed and Dirt textures.
 - Added Landscape Fixes for Grass Mods
 - Added Terrain Fixes for CC Mods
+- Added Skyland Landscapes
 - Added Skyrim Flora Overhaul Grasses
 - Added Enhanced Landscapes - Grass
 - Added Skyrim - A Mountainous Experience
@@ -37,7 +37,6 @@
 - Added Deadly Spell Impacts
 - Added Embers HD
 - Added Sanguine - Enhanced Blood Retexture SE
-- Added Skyland Landscapes
 - Added Alchemy Ingredients ENB Light
 - Added Cathedral Assets Optimizer, NifOptimizer, and NifSkope to included tools.
 - Removed Unique Uniques
