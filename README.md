@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey/blob/main/README.md"?>Readme</> | <a href="https://github.com/SiraMirai/journey/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey/blob/main/README.md"?>Readme</a> | <a href="https://github.com/SiraMirai/journey/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
 </p>
 
 ---
