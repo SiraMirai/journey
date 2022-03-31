@@ -10,6 +10,8 @@
 
 **Download Journey: [Journey.wabbajack](https://github.com/SiraMirai/journey/releases/download/1.0-beta5.0.0/Journey-1.0-Beta-5.0.0.wabbajack)**
 
+**Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)
+
 "You realize that all your life you have been coasting along as if you were in a dream. Suddenly, facing the trials of the last few days, you have come alive."
 
 Journey is a simple modlist designed to give a vanilla-like graphical presentation and provide a solid Vanilla+ gameplay overhaul with an optional survival component using SunHelm. Journey's purpose is to provide a base graphical and gameplay overhaul to play Skyrim fairly close to how the game was or to add on your own choice of followers, quests, and new lands beyond what is already included.
@@ -75,6 +77,8 @@ Wabbajack has a number of scenarios where it will produce an error. Most often, 
 
 ##### Could not download
 There are some files that are known to have issues being downloaded by Wabbajack. Mods downloaded from `Google Drive` or `ModDB` , in particular. You may manually download these mods from their source and place their archives **as is** into the downloads folder.
+
+The most common mod to give download issues is Skyrim Realistic Overhaul. Due to this I recommend downloading the files manually from their [ModDB page](https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads). Download Parts 1 through 3 and the 1.8 Update file and place them into your Wabbajack downloads filder.
 
 The other common cause of this error is a mod was updated and its old files were deleted and are now impossible to download. In this situation, simply wait until Journey has been updated.
 
