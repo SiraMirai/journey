@@ -96,5 +96,6 @@ Updating follows the same process as installing, simply select the same path and
 
 # Finishing Up
 Before playing
-- It is recommended to open the included BethINI application under `Journey/Tools`, point it at the `Journey - A Vanilla+ Modlist` folder under `Journey/Profiles` and set the resolution to match the display your own, or lower than your display's resolution if you want to improve performance at the cost of visuals.
+- Journey comes with several graphical presets included in the `Graphics Presets` folder within Journey's install folder. To swap between presets, copy the preset of your choice into the Journey profile within the `profiles` folder.
 - Choose what ENB or ReShade preset you want (if any!) from ENB Organizer launched through the shortcut within Mod Organizer.
+- Journey also comes with several followers pre-installed but initially disabled. If you want to use any of them, simply check them as enabled in Mod Organizer under the `Followers` section and place their plugins files before `Aetherius.esp`.
