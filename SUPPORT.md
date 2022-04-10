@@ -10,4 +10,4 @@
 # Support
 For any problems that you find, you can provide details on the [issues](https://github.com/SiraMirai/journey/issues) page. Please provide as many details as you can about the issue. including screenshots is always appreciated!
 
-You can also hop into [The Animonculory Server](https://discord.gg/DffHKcszfg) in the modlist-betas channel for support and discussion with our community members. 
+You can also hop into [The Animonculory Server](https://discord.gg/DffHKcszfg) for support and discussion with our community members. 
