@@ -38,7 +38,7 @@ Journey is designed and made for Skyrim: Special Edition with full support for p
 
 ### Gameplay
 
-Journey's aims with gameplay modification is to remain unintrusive while enhancing the core mechanics in a way that remains true to the spirit of Skyrim's core design. You can see the full details of what has changed in Journey's gamplay [here](https://github.com/SiraMirai/journey/blob/main/GAMEPLAY.md)
+Journey's aims with gameplay modification is to remain unintrusive while enhancing the core mechanics in a way that remains true to the spirit of Skyrim's core design. You can see the full details of what has changed in Journey's gamplay [here](https://github.com/SiraMirai/journey/blob/main/GAMEPLAY.md).
 
 ### Discussion and Support
 
