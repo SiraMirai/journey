@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey/blob/main/README.md"?>Readme</a> | <a href="https://github.com/SiraMirai/journey/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/SiraMirai/journey/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/SiraMirai/journey/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/SiraMirai/journey/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/SiraMirai/journey/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
 </p>
 
 ---
@@ -12,11 +12,37 @@
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
+- [Introduction](#about-journey)
+	- [Gameplay](#gameplay)
+	- [Discussion and Support](#discussion-and-support)
+	- [List Contents](#list-contents)
+- [Installation](#installation)
+	- [Pre-Installation](#pre-installation)
+		- [Installing Microsoft Visual C++](#installing-microsoft-visual-c++-redistributable-x64)
+		- [Clean Skyrim](#clean-skyrim)
+		- [Start Skyrim](#start-skyrim)
+	- [Wabbajack Install](#wabbajack-install)
+		- [Initial Setup](#initial-setup)
+		- [Download and Installation](#download-and-installation)
+		- [Common Wabbajack Issues](#common-wabbajack-issues)
+- [Updating](#updating)
+- [Finishing Up](#finishing-up)
+
 "You realize that all your life you have been coasting along as if you were in a dream. Suddenly, facing the trials of the last few days, you have come alive."
+
+# About Journey
 
 Journey is a simple modlist designed to give a vanilla-like graphical presentation and provide a solid Vanilla+ gameplay overhaul with an optional survival component using SunHelm. Journey's purpose is to provide a base graphical and gameplay overhaul to play Skyrim fairly close to how the game was or to add on your own choice of followers, quests, and new lands beyond what is already included.
 
-Journey is designed and made for Skyrim: Special Edition with minimal AE content support for the free Creation Club content that Bethesda added with the Anniversary Edition update.
+Journey is designed and made for Skyrim: Special Edition with full support for players with only the free Creation Club content or those who have the full Anniversary Edition content.
+
+### Gameplay
+
+Journey's aims with gameplay modification is to remain unintrusive while enhancing the core mechanics in a way that remains true to the spirit of Skyrim's core design. You can see the full details of what has changed in Journey's gamplay [here](https://github.com/SiraMirai/journey/blob/main/GAMEPLAY.md)
+
+### Discussion and Support
+
+Support for Journey is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) or in the issues section of the Journey GitHub. If you have any questions, want to discuss gameplay, or if you find any mistakes in documentation, please report it in the Animonculory Server's support channel.
 
 ### List Contents
 
@@ -76,9 +102,7 @@ The installation process can take some time depending on your system specs. It i
 Wabbajack has a number of scenarios where it will produce an error. Most often, simply re-running Wabbajack will fix this issue and I recommend attempting that before posting anything. Wabbajack will continue from where it left off and lose no progress.
 
 ##### Could not download
-There are some files that are known to have issues being downloaded by Wabbajack. Mods downloaded from `Google Drive` or `ModDB` , in particular. You may manually download these mods from their source and place their archives **as is** into the downloads folder.
-
-The most common mod to give download issues is Skyrim Realistic Overhaul. Due to this I recommend downloading the files manually from their [ModDB page](https://www.moddb.com/mods/skyrim-realistic-overhaul/downloads). Download Parts 1 through 3 and the 1.8 Update file and place them into your Wabbajack downloads filder.
+There are some files that are known to have issues being downloaded by Wabbajack. You may manually download these mods from their source and place their archives **as is** into the downloads folder.
 
 The other common cause of this error is a mod was updated and its old files were deleted and are now impossible to download. In this situation, simply wait until Journey has been updated.
 
@@ -96,6 +120,7 @@ Updating follows the same process as installing, simply select the same path and
 
 # Finishing Up
 Before playing
-- Journey comes with several graphical presets included in the `Graphics Presets` folder within Journey's install folder. To swap between presets, copy the preset of your choice into the Journey profile within the `profiles` folder.
-- Choose what ENB or ReShade preset you want (if any!) from ENB Organizer launched through the shortcut within Mod Organizer.
-- Journey also comes with several followers pre-installed but initially disabled. If you want to use any of them, simply check them as enabled in Mod Organizer under the `Followers` section and place their plugins files before `Aetherius.esp`.
+- Journey comes with several graphical presets included that you can read about [here](https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md#graphics-options).
+- Make sure you follow the guid for [setting up creation club content](https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md#anniversary-edition).
+- Choose what ENB or ReShade preset you want using [ENB Organizer](https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md#enb-organizer)
+- Journey also comes with several other optionals including alternative profiles and optional companions. You can read about them [here](https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md#optionals).
