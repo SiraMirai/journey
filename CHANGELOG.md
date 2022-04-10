@@ -8,6 +8,98 @@
 
 ---
 # Changelog
+## Version 1.0.0 [Preliminary]
+- Added full AE CC integration
+- Custom Main Menu
+- Tweaked SSE Display Tweaks settings.
+- Further Improved Camera Tweaks
+- Tweaked Cathedralist Redux ENB
+- Added Rudy ENB as an optional.
+- Changed texture base from Skyrim Realistic Overhaul to Skyland
+- Changed from Cathedral Weather to Obsidian Weathers
+- Changed from Cathedral Water to Realistic Water Two and Water for ENB
+- Replaced Rustic Mountains with Polar Peaks
+- Replaced Sunhelm with Survival Mode Improved for better CC integration
+- Replaced Voltage with Near Voltage - Purple Edition
+- Implemented winter season support for Wyrmstooth
+- Updated Mysticism to 2.0.1
+- Updated Adamant to 5.4.1
+- Updated Thaumaturgy to 1.1.6
+- Updated Stop on Slash
+- Added Animated Static Reload Fix
+- Added Amalgam
+- Added Antiquary
+- Added Main Menu Design Replacer
+- Added ConsoleUtilSSE
+- Added LOD Unloading Bug Fix
+- Added ENB Input Disabler
+- Added TrueHUD, MoreHUD, SmoothCam, MoreHud Inventory Edition and Oxygen Meter 2
+- Added Menu and Load Smoke Removed for ENB
+- Added The Only Cure, House of Horrors, Nilheim, and Caught Red Handed Quest Expansions
+- Added Finding Helgi and Laelette, Finding Susanna Alive, and Finding Velehk Sain
+- Added NPCs Wear Amulets of Mara
+- Added Missives Notes Retexture and Worldspace Addtions
+- Added Webmetz’s Growables for Wyrmstooth and Interesting NPCs
+- Added Attunement Sphere and Lexicon Distributor
+- Added Radiant Requirements
+- Added Whiterun Watchtower Doesn’t Start Broken
+- Added Near Vanilla Project -Portal to Sovngarde Redone, Queen Bee Statue Redone,  College of Winterhold Floor, and Control Cube Redone
+- Added Spider Webs and Particles for ENB
+- Added Wyrmstooth Upscaled Textures
+- Added JS Purses and Septims, Bloodstone Chalice, Initiate’s Ewer, Shrines of the Divines, and Instruments of Skyrim
+- Added Solstheim Objects SMIMed - High Poly Dark Elf Furniture
+- Added Fixed Mesh Lighting and Fixed Mesh Lighting - Hearthfire
+- Added Rustic Furniture, Maps, Cooking, Clutter Collection, and Soul Gems
+- Added Whiterun Mesh Fixes
+- Added Dlizzio’s Mesh Fixes
+- Added 3D Riften Trellis and Roofs
+- Added 3D Solitude Market Trellis
+- Added 3D Whiterun Trellis
+- Added Stockades of Skyrim 3d
+- Added Thrones of Skyrim
+- Added Added Orc Settlements Enhanced
+- Added Rally’s Manhole of Solitude
+- Added High Poly Project
+- Added Skyrim Remastered - Metal Cages and SMIM Imperial Jails and High Hrothgar v2
+- Added Rudy HQ - Miscellaneous
+- Added Underground - A Dungeon Texture Overhaul
+- Added The Dwemer
+- Added Rally’s Solstheim AIO
+- Added Septentrional Landscapes, Northern Shores, and Polar Peaks
+- Added Bright Waterfall Fix for ENB
+- Added Blacksmith Forge Water Fix
+- Added Less Distracting Blowing Snow Effects
+- Added Kabu’s Argonian Fins
+- Added Forgotten Argonian Roots
+- Added More to Say
+- Added Quiet Dog
+- Added Bard Instremntals Mostly - Sing Rarely
+- Added Forgotten Creatures
+- Added Bellyaches Animal and Creature Pack
+- Added Bellyaches HD Dragon Replacer Pack
+- Added Troll, Giant, Hagraven, Wispmother and Falmer by Kajuan
+- Added zzjay’s Horse Overhaul
+- Added Realistic Paper
+- Added High Quality Food and Ingredients
+- Added Literally Unplayable - The Forgotten City Patch
+- Added Proving Honour Companions Quest Progression Fix
+- Added King Olaf’s Fire Festival Not Ending Fix
+- Added No Grass in Caves
+- Added Butterflies Land True
+- Added Butterflies Unchained
+- Added eFPS
+- Added Optional Companion: Glady the Corgi
+- Added Optional Companion: Merlin the Corgi
+- Changed Particle Patch for ENB to Nexus version
+- Remove Chrysamere
+- Removed Rally’s Water Foam
+- Removed Helgen Reborn
+- Removed Masculine and Feminine Argonians
+- Moved Ralof or Hadvar to optionals
+- Moved Improved Camera to optionals
+- Misc tweaks for functionality and a cleaner load order.
+
+
 ## Version 1.0 Beta 5
 #### Not savegame compatible with Beta 4. Use old saves at your own risk.
 - Included new Graphical Presets for Journey. The new default is High. Prior versions graphical settings are now Ultra
