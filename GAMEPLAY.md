@@ -1,0 +1,43 @@
+![](https://github.com/SiraMirai/journey/raw/main/images/Journey%20Banner.png)
+
+---
+
+<p align="center">
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/SiraMirai/journey/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/SiraMirai/journey/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/SiraMirai/journey/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
+</p>
+
+---
+# Gameplay
+
+Journey is designed to provide a performance friendly but still aesthetically pleasing upgrade to Skyrim's visuals. This same philosophy extends into its gameplay changes  through a curated list of included gameplay mods along with a few select new quests and places to explore.
+
+## Gameplay Overhaul
+
+The core of Journey's gameplay experience is built around the [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746) gameplay overhaul. SimonRim keeps the core of what makes Skyrim's various systems design philisophy and enhances the flow of gameplay and balance.
+
+The full SimonRim experience is included in Journey:
+
+- [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - A rework of races that replaces active greater powers with more powerful passive abilities.
+- [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) - An overhaul to magic to balance existing and fill in the gaps with new spells and effects.
+- [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - An overhaul of the perk system that increases build diversity and makes each perk point matter.
+- [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) - Merges Lockpicking and Pickpocking to allow for the introduction of a Hand-to-Hand skill tree.
+- [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) - A rework of all standing stone bonuses to provide greater diversity and allow for more options.
+- [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487) - A rework of encounter zones to create a more natural sense of progression against various enemies.
+- [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - An overhaul of combat to encourage resource management and make combat more engaging.
+- [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) - A rebalance and improvement of vampirism and to provide new abiltiies.
+- [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) - A rebalance and improvement of existing lycanthropy and to provide new abilities.
+- [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) - A rework of alchemy and food to rebalance existing options and provide new options.
+- [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - An overhaul of religion to provide new dieties to worship and rebalance and add new shrine effects.
+- [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) - An overhaul of enchanting to rebalance and fix the many issues within enchanting.
+
+In addition to SimonRim, Journey rounds out the experience with:
+
+- [Antiquary](https://www.nexusmods.com/skyrimspecialedition/mods/44413) - An overhaul of Skyrim's artifacts to feel more potent while still not breaking the game's balance.
+- [Amalgam](https://www.nexusmods.com/skyrimspecialedition/mods/66283) - An overhaul of giants, animals, and spriggans to provide better scaling across levels and provide more realistic  animal behaviour
+- [Haugbui](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - An overhaul to draugr  to provide better balance, new itmes, unique bosses and more variety.
+- [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) - An overhaul to dragon combat to provide greater challenge and wider variety among draconic enemies.
+- [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight overhaul to to shouts to provide better balance to this underwhelming vanilla mechanic.
+- [Skooma is Illicit](https://www.nexusmods.com/skyrimspecialedition/mods/29120) - Prevents respectable merchants from dealing in Skooma and Moons Sugar and marks them as illicit contraband.
+- [Lockpicks are Illicit](https://www.nexusmods.com/skyrimspecialedition/mods/39272) - Prevents every person and their dog from stocking lockpicks on hand and retunes how many you will find.
+- [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748) - Implements ESO's Skyshards, hunt for perk points!
+- [Economy Overhaul and Speechcraft Improvements Lite](https://www.nexusmods.com/skyrimspecialedition/mods/9542) - Rebalances gold rewards from various jobs and tasks.
