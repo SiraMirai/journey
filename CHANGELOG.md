@@ -18,6 +18,7 @@
 - Changed texture base from Skyrim Realistic Overhaul to Skyland
 - Changed from Cathedral Weather to Obsidian Weathers
 - Changed from Cathedral Water to Realistic Water Two and Water for ENB
+- Further tweaks and improvements to grasses
 - Replaced Rustic Mountains with Polar Peaks
 - Replaced Sunhelm with Mode Improved for better CC integration
 - Replaced Voltage with Near Voltage - Purple Edition
