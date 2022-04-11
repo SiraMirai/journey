@@ -79,6 +79,7 @@
 - Added Bellyaches HD Dragon Replacer Pack
 - Added Troll, Giant, Hagraven, Wispmother and Falmer by Kajuan
 - Added zzjay’s Horse Overhaul
+- Added Wayfarer's Coat
 - Added Vanargand Animations - Crossbows
 - Added Realistic Paper
 - Added High Quality Food and Ingredients
