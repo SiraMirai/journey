@@ -84,6 +84,10 @@
 - Added Realistic Paper
 - Added High Quality Food and Ingredients
 - Added Literally Unplayable - The Forgotten City Patch
+- Added Save the Icerunner - Lights Out Alternate Routes
+- Added Improved College Entry - Questline Tweaks
+- Added A Lovely Letter Alternate Routes
+- Added Improved Companions - Questline Tweaks
 - Added Proving Honour Companions Quest Progression Fix
 - Added King Olaf’s Fire Festival Not Ending Fix
 - Added No Grass in Caves
