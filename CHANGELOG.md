@@ -19,7 +19,7 @@
 - Changed from Cathedral Weather to Obsidian Weathers
 - Changed from Cathedral Water to Realistic Water Two and Water for ENB
 - Replaced Rustic Mountains with Polar Peaks
-- Replaced Sunhelm with Survival Mode Improved for better CC integration
+- Replaced Sunhelm with Mode Improved for better CC integration
 - Replaced Voltage with Near Voltage - Purple Edition
 - Implemented winter season support for Wyrmstooth
 - Updated Mysticism to 2.0.1
@@ -79,6 +79,7 @@
 - Added Bellyaches HD Dragon Replacer Pack
 - Added Troll, Giant, Hagraven, Wispmother and Falmer by Kajuan
 - Added zzjay’s Horse Overhaul
+- Added Vanargand Animations - Crossbows
 - Added Realistic Paper
 - Added High Quality Food and Ingredients
 - Added Literally Unplayable - The Forgotten City Patch
@@ -88,6 +89,25 @@
 - Added Butterflies Land True
 - Added Butterflies Unchained
 - Added eFPS
+- Mods added For Creation Club Integration:
+  - Saints and Seducers - Rare Curios - Growable Plants
+  - Rebalancing Anniversary Edition - Quest Requirements
+  - Skyrim Anniversary - Growable Plants
+  - Creation Club - Adjustments, Rebalancing, and Variants
+  - Curated Curios - A Creation Club Integration Mod
+  - Arcane Accessories - Rebalance Patch
+  - Creation Club Integration - Armors
+  - Crossbow Integration
+  - Baggage - Another CC Backpacks Rebalance
+  - Fearsome Fists - Thaumaturgy Consistency Patch
+  - The Vigilants’ New Clothes - A Creation Club Integration Mod
+  - Morrowind Threads -  A Creation Club Integration Mod
+  - Ghosts of the Tribunal - Solstehim Integration
+  - Knight of the North
+  - Pirate’s Life for Me
+  - Creation Club Backpacks for NPCs
+  - Horse armor no longer disappears
+  - CC Goldenhills Plantation - Remove Shrine Cost in Survival
 - Added Optional Companion: Glady the Corgi
 - Added Optional Companion: Merlin the Corgi
 - Changed Particle Patch for ENB to Nexus version
