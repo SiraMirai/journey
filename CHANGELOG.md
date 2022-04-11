@@ -22,8 +22,8 @@
 - Replaced Sunhelm with Mode Improved for better CC integration
 - Replaced Voltage with Near Voltage - Purple Edition
 - Implemented winter season support for Wyrmstooth
-- Updated Mysticism to 2.0.1
-- Updated Adamant to 5.4.1
+- Updated Mysticism to 2.0.3
+- Updated Adamant to 5.4.2
 - Updated Thaumaturgy to 1.1.6
 - Updated Stop on Slash
 - Added Animated Static Reload Fix
