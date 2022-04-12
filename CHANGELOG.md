@@ -34,7 +34,7 @@
 - Added ConsoleUtilSSE
 - Added LOD Unloading Bug Fix
 - Added ENB Input Disabler
-- Added TrueHUD, MoreHUD, SmoothCam, MoreHud Inventory Edition and Oxygen Meter 2
+- Added TrueHUD, MoreHUD, SmoothCam, MoreHud Inventory Edition, Oxygen Meter 2, and Toggle Compass Hotkey
 - Added Menu and Load Smoke Removed for ENB
 - Added The Only Cure, House of Horrors, Nilheim, and Caught Red Handed Quest Expansions
 - Added Finding Helgi and Laelette, Finding Susanna Alive, and Finding Velehk Sain
@@ -82,15 +82,21 @@
 - Added zzjay’s Horse Overhaul
 - Added Wayfarer's Coat
 - Added Vanargand Animations - Crossbows
+- Added Draw 2 - Dual Weapon Equip-Unequip Animations
+- Added Draw 2 - Settings Loader
 - Added Realistic Paper
 - Added High Quality Food and Ingredients
 - Added Literally Unplayable - The Forgotten City Patch
 - Added Save the Icerunner - Lights Out Alternate Routes
 - Added Improved College Entry - Questline Tweaks
 - Added A Lovely Letter Alternate Routes
+- Added True Teacher Durnehviir
+- Added Silence is Golden
+- Added Quests Are In Skyrim
 - Added Improved Companions - Questline Tweaks
 - Added Proving Honour Companions Quest Progression Fix
 - Added King Olaf’s Fire Festival Not Ending Fix
+- Added Stackable Stones of Barenziah
 - Added No Grass in Caves
 - Added Butterflies Land True
 - Added Butterflies Unchained
