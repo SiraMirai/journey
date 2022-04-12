@@ -8,7 +8,7 @@
 
 ---
 # Changelog
-## Version 1.0.0 [Unreleased]
+## Version 1.0.0
 - Added full AE CC integration
 - Custom Main Menu
 - Tweaked SSE Display Tweaks settings.
@@ -23,8 +23,10 @@
 - Replaced Sunhelm with Mode Improved for better CC integration
 - Replaced Voltage with Near Voltage - Purple Edition
 - Implemented winter season support for Wyrmstooth
-- Updated Mysticism to 2.0.3
-- Updated Adamant to 5.4.2
+- Updated Mysticism to 2.0.4
+- Updated Adamant to 5.4.3
+- Updated Hand to Hand to 1.1.13
+- Updated Pilgrim to 1.0.13
 - Updated Thaumaturgy to 1.1.6
 - Updated Stop on Slash
 - Added Animated Static Reload Fix
@@ -102,6 +104,7 @@
 - Added Butterflies Land True
 - Added Butterflies Unchained
 - Added eFPS
+- Added .NET Script Framework for crashlogging
 - Mods added For Creation Club Integration:
   - Saints and Seducers - Rare Curios - Growable Plants
   - Rebalancing Anniversary Edition - Quest Requirements
