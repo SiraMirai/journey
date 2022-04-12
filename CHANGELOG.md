@@ -43,8 +43,9 @@
 - Added Webmetz’s Growables for Wyrmstooth and Interesting NPCs
 - Added Attunement Sphere and Lexicon Distributor
 - Added Radiant Requirements
+- Added Bounty quests count for Thanehood progress SE
 - Added Whiterun Watchtower Doesn’t Start Broken
-- Added Near Vanilla Project -Portal to Sovngarde Redone, Queen Bee Statue Redone,  College of Winterhold Floor, and Control Cube Redone
+- Added Near Vanilla Project - Portal to Sovngarde Redone, Queen Bee Statue Redone,  College of Winterhold Floor, and Control Cube Redone
 - Added Spider Webs and Particles for ENB
 - Added Wyrmstooth Upscaled Textures
 - Added JS Purses and Septims, Bloodstone Chalice, Initiate’s Ewer, Shrines of the Divines, and Instruments of Skyrim
