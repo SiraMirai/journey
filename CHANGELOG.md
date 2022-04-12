@@ -8,7 +8,7 @@
 
 ---
 # Changelog
-## Version 1.0.0 [Preliminary]
+## Version 1.0.0 [Unreleased]
 - Added full AE CC integration
 - Custom Main Menu
 - Tweaked SSE Display Tweaks settings.
