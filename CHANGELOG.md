@@ -8,6 +8,31 @@
 
 ---
 # Changelog
+## Version 1.0.1 [Unreleased]
+- Set First Person Camera Height Fix to enabled by default
+- Set Improved Camera to disabled by default
+- Included optional Improved Camera preset with head-bob but no clipping
+- Updated Unofficial Skyrim Creation Club Content Patch to 6.5
+- Updated Mysticism to 2.0.5
+- Updated Pilgrim to 1.0.14
+- Updated Webmetz’s Growables - Wyrmstooth to 1.1.0
+- Upgraded Immersive Folded Hands to 1.2.0
+- Updated NPC Animation Remix to 1.1.0
+- Updated Gesture Animation Remix to 1.1.0
+- Added Optional Quick Start - SE
+- Added Weather of World
+- Added True Storms
+- Added True Storms - Obsidian Weather Patch
+- Added Reverb and Ambiance Overhaul
+- Added Carriage Service for Goldenhills Plantation
+- Added Skyrim Sewers 4 and Saints and Seducers Patch
+- Added Fast Travel for Survival Mode to [Optionals]
+- Removed Ralof or Hadvar
+- Tweaks to Winter is Coming and Cloaks of Skyrim for balance
+- Tweaks to Optional Quick Start to provide a more seamless new game experience
+- Tweaks to Campsite for convenience
+
+
 ## Version 1.0.0
 - Added full AE CC integration
 - Custom Main Menu
