@@ -16,7 +16,7 @@
 - Updated Mysticism to 2.0.5
 - Updated Pilgrim to 1.0.14
 - Updated Webmetz’s Growables - Wyrmstooth to 1.1.0
-- Upgraded Immersive Folded Hands to 1.2.0
+- Updated Immersive Folded Hands to 1.2.0
 - Updated NPC Animation Remix to 1.1.0
 - Updated Gesture Animation Remix to 1.1.0
 - Added Optional Quick Start - SE
