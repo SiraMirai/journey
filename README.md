@@ -8,7 +8,7 @@
 
 ---
 
-**Download Journey: [Journey.wabbajack](https://github.com/SiraMirai/journey/releases/download/1.0.0/Journey-1.0.0.wabbajack)**
+**Download Journey: [Journey.wabbajack](https://github.com/SiraMirai/journey/releases/download/1.0.1/Journey-1.0.1.wabbajack)**
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
