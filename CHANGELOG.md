@@ -8,7 +8,7 @@
 
 ---
 # Changelog
-## Version 1.0.1 [Unreleased]
+## Version 1.0.1
 - Set First Person Camera Height Fix to enabled by default
 - Set Improved Camera to disabled by default
 - Included optional Improved Camera preset with head-bob but no clipping
