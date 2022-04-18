@@ -28,6 +28,8 @@
 - Added Skyrim Sewers 4 and Saints and Seducers Patch
 - Added Fast Travel for Survival Mode to [Optionals]
 - Removed Ralof or Hadvar
+- Removed Project Clarity AIO
+- Replaced Unofficial Performance Optimized Textures with Cleaned Skyrim SE Textures
 - Tweaks to Winter is Coming and Cloaks of Skyrim for balance
 - Tweaks to Optional Quick Start to provide a more seamless new game experience
 - Tweaks to Campsite for convenience
