@@ -8,6 +8,24 @@
 
 ---
 # Changelog
+## Version 1.0.2 [Unreleased]
+- Added True Directional Movement
+- Added Level Up Menu (But With Messages)
+- Added Shadows of Sunlight - In Small Exterior World Spaces
+- Added CC Wild Horses and Zzjay's HO
+- Added Hale - Horse Retextures
+- Added Bald Head Hair Style
+- Removed Flying Crows
+- Removed Realistic Horse Breeds
+- Removed NPC Animation Remix, Gesture Animation Remix, and Immersive folded hands
+- Removed Serio's Headtracking
+- Tweaks to tundra grasses
+- Tweaks to default ENB
+- Changed level at which Dawnguard DLC starts
+- Fixed housing prices back to vanilla prices.
+- Bugfixes and additional conflict resolution
+
+
 ## Version 1.0.1
 - Set First Person Camera Height Fix to enabled by default
 - Set Improved Camera to disabled by default
