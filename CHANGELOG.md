@@ -15,6 +15,7 @@
 - Added CC Wild Horses and Zzjay's HO
 - Added Hale - Horse Retextures
 - Added Bald Head Hair Style
+- Added Beards of Power
 - Removed Flying Crows
 - Removed Realistic Horse Breeds
 - Removed NPC Animation Remix, Gesture Animation Remix, and Immersive folded hands
