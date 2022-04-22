@@ -22,7 +22,7 @@
 - Tweaks to tundra grasses
 - Tweaks to default ENB
 - Changed level at which Dawnguard DLC starts
-- Fixed housing prices back to vanilla prices.
+- Fixed housing prices back to vanilla prices
 - Bugfixes and additional conflict resolution
 
 
