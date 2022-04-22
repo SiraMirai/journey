@@ -12,6 +12,7 @@
 - Added True Directional Movement
 - Added Level Up Menu (But With Messages)
 - Added Shadows of Sunlight - In Small Exterior World Spaces
+- Added Sexier Vanilla - Guards
 - Added CC Wild Horses and Zzjay's HO
 - Added Hale - Horse Retextures
 - Added Bald Head Hair Style
