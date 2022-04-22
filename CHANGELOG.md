@@ -16,6 +16,9 @@
 - Added Hale - Horse Retextures
 - Added Bald Head Hair Style
 - Added Beards of Power
+- Added Neutral Hjerim
+- Added Scene Tweak - Companions Werewolf Bloodritual
+- Added The Companions - Don't Be a Milk Drinker
 - Removed Flying Crows
 - Removed Realistic Horse Breeds
 - Removed NPC Animation Remix, Gesture Animation Remix, and Immersive folded hands
@@ -24,7 +27,7 @@
 - Tweaks to default ENB
 - Changed level at which Dawnguard DLC starts
 - Fixed housing prices back to vanilla prices
-- Bugfixes and additional conflict resolution
+- Bugfixes and additional conflict resolution and tweaks
 
 
 ## Version 1.0.1
