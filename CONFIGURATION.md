@@ -45,7 +45,7 @@ To change ENB or ReShade presets:
 
 >For Improved performance, try turning off any ENB preset and enable one of the included reshade presets.
 
-Journey's default graphics settings are set to its `High` preset. For better performance or visuals, you can select one of the other included graphics configs included in the `Journey/Graphics Presets` folder into the 'Profiles/[Journey]/[Anniversary Edition]` profile folder that you are using.
+Journey's default graphics settings are set to its `High` preset. For better performance or visuals, you can select one of the other included graphics configs included in the `Journey/Graphics Presets` folder into the `Profiles/[Journey]/[Journey - Anniversary Edition]` profile folder that you are using.
 
 ## Optionals
 
