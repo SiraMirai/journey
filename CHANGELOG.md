@@ -17,6 +17,8 @@
 - Added Hale - Horse Retextures
 - Added Bald Head Hair Style
 - Added Beards of Power
+- Added Community Overlays
+- Added No Spinning Death Animation
 - Added Neutral Hjerim
 - Added Scene Tweak - Companions Werewolf Bloodritual
 - Added The Companions - Don't Be a Milk Drinker
