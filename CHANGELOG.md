@@ -13,6 +13,7 @@
 - Added Level Up Menu (But With Messages)
 - Added Convenient Dialogue UI
 - Added Shadows of Sunlight - In Small Exterior World Spaces
+- Added Bleak Falls Barrow - No Ice Meshes in Troll Pit
 - Added Sexier Vanilla - Guards
 - Added CC Wild Horses and Zzjay's HO
 - Added Hale - Horse Retextures
