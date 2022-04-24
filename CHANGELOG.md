@@ -11,6 +11,7 @@
 ## Version 1.0.2 [Unreleased]
 - Added True Directional Movement
 - Added Level Up Menu (But With Messages)
+- Added Convenient Dialogue UI
 - Added Shadows of Sunlight - In Small Exterior World Spaces
 - Added Sexier Vanilla - Guards
 - Added CC Wild Horses and Zzjay's HO
@@ -27,6 +28,7 @@
 - Removed NPC Animation Remix, Gesture Animation Remix, and Immersive folded hands
 - Removed Serio's Headtracking
 - Removed Leviahtan Animations - Two-Handed High Stance, Normal Attacks, and Power Attacks
+- Removed Dialogue Interface ReShaped
 - Tweaks to tundra grasses
 - Tweaks to default ENB
 - Changed default grahpics preset to Medium
