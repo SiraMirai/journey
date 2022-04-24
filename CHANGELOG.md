@@ -26,8 +26,10 @@
 - Removed Realistic Horse Breeds
 - Removed NPC Animation Remix, Gesture Animation Remix, and Immersive folded hands
 - Removed Serio's Headtracking
+- Removed Leviahtan Animations - Two-Handed High Stance, Normal Attacks, and Power Attacks
 - Tweaks to tundra grasses
 - Tweaks to default ENB
+- Changed default grahpics preset to Medium
 - Changed level at which Dawnguard DLC starts
 - Fixed housing prices back to vanilla prices
 - Bugfixes and additional conflict resolution and tweaks
