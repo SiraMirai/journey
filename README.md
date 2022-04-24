@@ -1,4 +1,4 @@
-![](https://github.com/SiraMirai/journey/raw/main/images/Journey%20Banner.png)
+![https://github.com/SiraMirai/journey/edit/main/README.md](https://github.com/SiraMirai/journey/raw/main/images/Journey%20Banner.png)
 
 ---
 
