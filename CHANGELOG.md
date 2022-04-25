@@ -14,6 +14,7 @@
 - Added Convenient Dialogue UI
 - Added Shadows of Sunlight - In Small Exterior World Spaces
 - Added Bleak Falls Barrow - No Ice Meshes in Troll Pit
+- Added Timing Is Everything
 - Added Sexier Vanilla - Guards
 - Added CC Wild Horses and Zzjay's HO
 - Added Hale - Horse Retextures
@@ -24,6 +25,7 @@
 - Added Neutral Hjerim
 - Added Scene Tweak - Companions Werewolf Bloodritual
 - Added The Companions - Don't Be a Milk Drinker
+- Removed Dawnguard Delayed and Dragonborn Delayed
 - Removed Flying Crows
 - Removed Realistic Horse Breeds
 - Removed NPC Animation Remix, Gesture Animation Remix, and Immersive folded hands
