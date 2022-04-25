@@ -30,7 +30,7 @@
 - Removed Realistic Horse Breeds
 - Removed NPC Animation Remix, Gesture Animation Remix, and Immersive folded hands
 - Removed Serio's Headtracking
-- Removed Leviahtan Animations - Two-Handed High Stance, Normal Attacks, and Power Attacks
+- Removed Leviathan Animations - Two-Handed High Stance, Normal Attacks, and Power Attacks
 - Removed Dialogue Interface ReShaped
 - Tweaks to tundra grasses
 - Tweaks to default ENB for colour balance and fixing nighttime fog brightness
