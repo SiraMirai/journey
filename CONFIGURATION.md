@@ -37,7 +37,7 @@ To change ENB or ReShade presets:
 - Run ENB Organizer from the left side bar in Mod Organizer 2 or from the exe list on the top right.
 - If ENB Organizer gives a warning about being unable to check for updates, click okay and ignore it.
 - In the left side menu, go to `Presets`.
-- Disable the currently enabled preset and enable the one you wish to use.
+- Disable the currently enabled preset and then enable the one you wish to use.
 
 > Do not enable more than one preset at a time. If you want to enable the included Rudy ENB, you must enable `Rudy ENB - Required Files` under Optionals in MO2 and move the `Obsidian Weathers - Patch - Rudy ENB.esb` below `Obsidian Weathers.esp` in the plugins list.
 
