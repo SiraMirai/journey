@@ -34,7 +34,7 @@
 - Removed Dialogue Interface ReShaped
 - Tweaks to tundra grasses
 - Tweaks to default ENB for colour balance and fixing nighttime fog brightness
-- Changed default grahpics preset to Medium
+- Changed default graphics preset to Medium
 - Changed level at which Dawnguard DLC starts
 - Fixed housing prices back to vanilla prices
 - Bugfixes and additional conflict resolution and tweaks
