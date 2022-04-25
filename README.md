@@ -32,7 +32,7 @@
 
 # About Journey
 
-Journey is a lightweight modlist designed to give a vanilla-like graphical presentation and provide a solid Vanilla+ gameplay overhaul with an optional survival component using Survival Mode. Journey's purpose is to provide a base graphical and gameplay overhaul to play Skyrim fairly close to how the game was or to add on your own choice of followers, quests, and new lands beyond what is already included.
+Journey is a lightweight modlist designed to give an enhanced vanilla-like graphical presentation and provide a solid Vanilla+ gameplay overhaul with an optional survival component using Survival Mode. Journey's purpose is to provide a base graphical and gameplay overhaul to play Skyrim fairly close to how the game was or to add on your own choice of followers, quests, and new lands beyond what is already included.
 
 Journey is designed and made for Skyrim: Special Edition with full support for players with only the free Creation Club content or those who have the full Anniversary Edition content.
 
