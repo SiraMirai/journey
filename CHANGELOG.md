@@ -8,7 +8,7 @@
 
 ---
 # Changelog
-## Version 1.0.2 [Unreleased]
+## Version 1.0.2
 - Added True Directional Movement
 - Added Level Up Menu (But With Messages)
 - Added Convenient Dialogue UI
