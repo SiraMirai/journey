@@ -47,6 +47,8 @@ To change ENB or ReShade presets:
 
 Journey's default graphics settings are set to its `Medium` preset. For better performance or visuals, you can select one of the other included graphics configs included in the `Journey/Graphics Presets` folder into the `Profiles/[Journey]/[Journey - Anniversary Edition]` profile folder that you are using.
 
+Double click on `SSE Display Tweaks - Journey Settings` and under `Patches & Fixes` and set the resolution to match your monitor resolution and remove the # at the start of the line.
+
 ## Optionals
 
 Journey includes a small amount of optional content for you to play with, if you want.
