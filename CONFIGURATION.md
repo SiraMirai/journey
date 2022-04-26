@@ -39,7 +39,7 @@ To change ENB or ReShade presets:
 - In the left side menu, go to `Presets`.
 - Disable the currently enabled preset and then enable the one you wish to use.
 
-> Do not enable more than one preset at a time. If you want to enable the included Rudy ENB, you must enable `Rudy ENB - Required Files` under Optionals in MO2 and move the `Obsidian Weathers - Patch - Rudy ENB.esb` below `Obsidian Weathers.esp` in the plugins list.
+> Do not enable more than one preset at a time. If you want to enable the included Rudy ENB, you must enable `Rudy ENB - Required Files` under `Optionals` in MO2 and move the `Obsidian Weathers - Patch - Rudy ENB.esb` below `Obsidian Weathers.esp` in the plugins list.
 
 ## Graphics Options
 
@@ -62,4 +62,7 @@ Included, but disabled by default, are a number of optional companions for your 
 
 ### Optional Tweaks
 
-Also included are a number of optional tweaks under `Optionals` in the Mod List. Simply follow the directions under `Notes` for enabling or disabling them.
+Also included are a number of optional tweaks under `Optionals` in the Mod List. 
+
+Most optionals do not add any plugins and require no additional work to enable. For `Fast Travel For Survival Mode`, load the esp before `RealisticWaterTwo.esp`.
+
