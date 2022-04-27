@@ -59,6 +59,7 @@ Included, but disabled by default, are a number of optional companions for your 
 
 - Enable the companion under `New Followers` that you want to enable.
 - Move all enabled plugins above `RealisticWaterTwo.esp`
+- If you're using the default `Journey` profile, any plugins with missing masters may be safely left disabled as they are included for the `Journey - Anniversary Edition` profile.
 
 ### Optional Tweaks
 
