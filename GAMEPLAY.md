@@ -41,3 +41,6 @@ In addition to SimonRim, Journey rounds out the experience with:
 - [Lockpicks are Illicit](https://www.nexusmods.com/skyrimspecialedition/mods/39272) - Prevents every person and their dog from stocking lockpicks on hand and retunes how many you will find.
 - [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748) - Implements ESO's Skyshards, hunt for perk points!
 - [Economy Overhaul and Speechcraft Improvements Lite](https://www.nexusmods.com/skyrimspecialedition/mods/9542) - Rebalances gold rewards from various jobs and tasks.
+- [Capsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) - A simple and cohesive camping setup that allows the player to build a campire and pitch a tent using only vanilla items.
+- [Survival Mode (Optional)](https://en.uesp.net/wiki/Skyrim:Survival_Mode) - A robust survival system to manage food, fatigue, and the bitter cold of Skyrim's landscapes. (Optional and can be disabled or enabled  in the Settings Menu)
+  > Further refined with [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891), [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374), and [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) (Optional)
