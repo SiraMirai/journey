@@ -19,6 +19,10 @@
 
 Journey comes with two profiles in MO2. Journey and Journey - Anniversary Edition. If you don't own Anniversary Edition and all of the creation club content that comes with it, play the default Journey profile. It contains the full Journey experience outside of creation club integration.
 
+Select the profile you want here:
+
+![Profiles](https://raw.githubusercontent.com/SiraMirai/journey/main/images/config-profiles.png)
+
 ## Anniversary Edition
 
 The Anniversary Edition profile requires a copy of all of the creation club mod files in order to use it.
