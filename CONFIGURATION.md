@@ -34,6 +34,10 @@ The Anniversary Edition profile requires a copy of all of the creation club mod 
 - Make sure all creation club content is enabled under the `Plugins` tab on the right pane in Mod Organizer 2.
 - If it is not, shift-click on `[NoDelete] Creation Club - Paid`, right click and select `Enable Selected`, and finally right click and select `Send to > Top`.
 
+When Creation Club content has been set up correctly, your Journey MO2 will look like this:
+
+![Anniversary Edition](https://raw.githubusercontent.com/SiraMirai/journey/main/images/config%20-%20ae%20enabled.png)
+
 ## ENB Organizer
 Journey includes the tool ENB Organizer for trying out different ENB and ReShade presets.
 
