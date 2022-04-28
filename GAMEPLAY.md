@@ -30,6 +30,7 @@ The full SimonRim experience is included in Journey:
 - [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - An overhaul of religion to provide new dieties to worship and rebalance and add new shrine effects.
 - [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) - An overhaul of enchanting to rebalance and fix the many issues within enchanting.
 
+
 In addition to SimonRim, Journey rounds out the experience with:
 
 - [Antiquary](https://www.nexusmods.com/skyrimspecialedition/mods/44413) - An overhaul of Skyrim's artifacts to feel more potent while still not breaking the game's balance.
