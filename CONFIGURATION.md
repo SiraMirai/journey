@@ -43,9 +43,14 @@ Journey includes the tool ENB Organizer for trying out different ENB and ReShade
 
 To change ENB or ReShade presets:
 - Run ENB Organizer from the left side bar in Mod Organizer 2 or from the exe list on the top right.
+
+![Executables](https://raw.githubusercontent.com/SiraMirai/journey/main/images/config-exemenu.png)
+
 - If ENB Organizer gives a warning about being unable to check for updates, click okay and ignore it.
 - In the left side menu, go to `Presets`.
 - Disable the currently enabled preset and then enable the one you wish to use.
+
+![ENB Organizer](https://raw.githubusercontent.com/SiraMirai/journey/main/images/config-enborganizer.png)
 
 > Do not enable more than one preset at a time. If you want to enable the included Rudy ENB, you must enable `Rudy ENB - Required Files` under `Optionals` in MO2 and move the `Obsidian Weathers - Patch - Rudy ENB.esb` below `Obsidian Weathers.esp` in the plugins list.
 
@@ -54,6 +59,9 @@ To change ENB or ReShade presets:
 >For Improved performance, try turning off any ENB preset and enable one of the included reshade presets.
 
 Journey's default graphics settings are set to its `Medium` preset. For better performance or visuals, you can select one of the other included graphics configs included in the `Journey/Graphics Presets` folder into the `Profiles/[Journey]/[Journey - Anniversary Edition]` profile folder that you are using.
+
+![Graphics Options](https://raw.githubusercontent.com/SiraMirai/journey/main/images/graphics-options.png)
+![Graphics Options](https://raw.githubusercontent.com/SiraMirai/journey/main/images/graphics-options2.png)
 
 Double click on `SSE Display Tweaks - Journey Settings` and under `Patches & Fixes` and set the resolution to match your monitor resolution and remove the # at the start of the line.
 
