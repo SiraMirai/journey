@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/SiraMirai/journey/main/images/Journey169v3.webp)
+![https://raw.githubusercontent.com/SiraMirai/journey/main/images/Jourmby.png](https://raw.githubusercontent.com/SiraMirai/journey/main/images/Journey169v3.webp)
 
 ---
 
