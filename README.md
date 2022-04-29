@@ -1,4 +1,4 @@
-![https://raw.githubusercontent.com/SiraMirai/journey/main/images/Jourmby.png](https://raw.githubusercontent.com/SiraMirai/journey/main/images/Journey169v3.webp)
+<a href="https://raw.githubusercontent.com/SiraMirai/journey/main/images/Jourmby.png"><img src="/images/Journey169v3.webp" target="_blank"></a>
 
 ---
 
