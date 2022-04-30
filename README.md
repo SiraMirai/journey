@@ -85,17 +85,15 @@ The installation process can take some time depending on your system specs. It i
   
 2. Also near the root of a drive, create a "Wabbajack Downloads" folder. This folder may be on a different drive.
   
-3. Download the latest version of `Journey.wabbajack` from this page and place it in your Wabbajack working folder.
+3. Download the latest version of `Journey` from the Wabbajack Browse Modlists page.
   
-4. In Wabbajack, select "Install From Disk"
+4. Select the folder created in step 1 as your installation folder.
   
-5. Set target modlist to the `Journey.wabbajack` file.
+5. Select the folder created in step 2 as your downloads folder.
   
-6. Select the folder created in step 1 as your installation folder.
-  
-7. Select the folder created in step 2 as your downloads folder.
-  
-8. Click the Start button and wait for Wabbajack to install the modlist.
+6. Click the Start button and wait for Wabbajack to install the modlist.
+
+7. Set up Creation Club content for the Anniversary Edition profile using the instructions [here](https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md#anniversary-edition).
   
 
 #### Common Wabbajack Issues
