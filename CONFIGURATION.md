@@ -77,7 +77,7 @@ Included, but disabled by default, are a number of optional companions for your 
 - Move all enabled plugins above `RealisticWaterTwo.esp`
 - If you're using the default `Journey` profile, any plugins with missing masters may be safely left disabled as they are included for the `Journey - Anniversary Edition` profile.
 
-Currently included optional companions are
+Currently included optional companions are:
 - Inigo
 - Lucien
 - Auri
