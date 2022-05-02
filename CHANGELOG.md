@@ -8,6 +8,15 @@
 
 ---
 # Changelog
+## Version 1.0.3 [Unreleased]
+- Added Arachnomancy - A Spider Scrolls Overhaul.
+- Added Vanargand Animations - Sneak Crossbows.
+- Added MD's HD Farmhouses wood textures.
+- Tweaked melee weapon range for better combat feel.
+- ENB Tweaks.
+- Fixed Sven facegen bug.
+- Tweaks to backend.
+
 ## Version 1.0.2
 - Added True Directional Movement
 - Added Level Up Menu (But With Messages)
