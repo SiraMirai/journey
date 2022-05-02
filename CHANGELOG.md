@@ -8,7 +8,7 @@
 
 ---
 # Changelog
-## Version 1.0.3 [Unreleased]
+## Version 1.0.3
 - Added Arachnomancy - A Spider Scrolls Overhaul.
 - Added Vanargand Animations - Sneak Crossbows.
 - Added MD's HD Farmhouses wood textures.
