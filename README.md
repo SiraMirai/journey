@@ -46,7 +46,7 @@ Support for Journey is offered in [The Animonculory Server](https://discord.gg/D
 
 ### List Contents
 
-The full contents of Journey can be found [here](https://loadorderlibrary.com/lists/journey-a-vanilla-modlist)
+The full contents of Journey can be found [here](https://loadorderlibrary.com/lists/journey)
 
 # Installation
 
