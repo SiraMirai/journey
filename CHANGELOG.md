@@ -8,6 +8,28 @@
 
 ---
 # Changelog
+## Version 1.1.0 [Unreleased]
+- Added Eastern Dwemer Towers of Solstheim
+- Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
+- Added Bonemold in Solstheim - An Integration Mod
+- Added Honorhall Orphanage Bugfixes and Expansion
+- Added Allow Dialogue Progress Bugfix
+- Added CritterSpawn Congestion Fix
+- Added Stay At System Page
+- Added Sound Hammering Sounds
+- Added Leviathan Animations - Two-Handed High Stance
+- Added Leviathan Animations - Two-Handed Normal Attacks
+- Added Leviathan Animations - Two-Handed Power Attacks
+- Updated Contextual Camera
+- Updated Stop On Slash
+- Updated Nilhelm - Quest Expensaion
+- Updated Bounty Quests Count for Thanehood Progress
+- Updated Carriage Service for Goldenhills Plantation
+- Updated Assorted Mesh Fixes
+- Updated Realistic Water Two
+- Updated Pristine Vanilla Movement
+- Reverted some backend tweaks for better download reliability.
+
 ## Version 1.0.3
 - Added Arachnomancy - A Spider Scrolls Overhaul.
 - Added Vanargand Animations - Sneak Crossbows.
