@@ -38,7 +38,7 @@ In addition to SimonRim, Journey rounds out the experience with:
 - [Haugbui](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - An overhaul to draugr  to provide better balance, new itmes, unique bosses and more variety.
 - [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) - An overhaul to dragon combat to provide greater challenge and wider variety among draconic enemies.
 - [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - A lightweight overhaul to to shouts to provide better balance to this underwhelming vanilla mechanic.
-- [Arachnomancy](https://www.nexusmods.com/skyrimspecialedition/mods/67272) - An overhaul to Dragonborn's spider scrolls crafting to flesh it out with new scrolls and spiders as well as allow access before reaching Solstheim.
+- [Arachnomancy](https://www.nexusmods.com/skyrimspecialedition/mods/67272) - An overhaul to Skyrim's spider scrolls crafting to flesh it out with new scrolls and spiders as well as allow access before reaching Solstheim.
 - [Skooma is Illicit](https://www.nexusmods.com/skyrimspecialedition/mods/29120) - Prevents respectable merchants from dealing in Skooma and Moons Sugar and marks them as illicit contraband.
 - [Lockpicks are Illicit](https://www.nexusmods.com/skyrimspecialedition/mods/39272) - Prevents every person and their dog from stocking lockpicks on hand and retunes how many you will find.
 - [Skyshards](https://www.nexusmods.com/skyrimspecialedition/mods/60748) - Implements ESO's Skyshards, hunt for perk points!
