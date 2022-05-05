@@ -16,6 +16,7 @@
 - Added Bonemold in Solstheim - An Integration Mod
 - Added Simple Wearable Lanters
 - Added Honorhall Orphanage Bugfixes and Expansion
+- Added Windhelm Segregation - Stay at New Gnisis Cornerclub
 - Added Allow Dialogue Progress Bugfix
 - Added CritterSpawn Congestion Fix
 - Added Stay At System Page
