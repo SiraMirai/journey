@@ -11,6 +11,7 @@
 ## Version 1.1.0 [Unreleased]
 - Added Eastern Dwemer Towers of Solstheim
 - Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
+- Added Bonemold Weapon Pack - aMidianBorn Color Match
 - Added Bonemold in Solstheim - An Integration Mod
 - Added Honorhall Orphanage Bugfixes and Expansion
 - Added Allow Dialogue Progress Bugfix
