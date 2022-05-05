@@ -9,10 +9,12 @@
 ---
 # Changelog
 ## Version 1.1.0 [Unreleased]
+- Added Skyrim Remastered - Glaciers and Ice
 - Added Eastern Dwemer Towers of Solstheim
 - Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
 - Added Bonemold Weapon Pack - aMidianBorn Color Match
 - Added Bonemold in Solstheim - An Integration Mod
+- Added Simple Wearable Lanters
 - Added Honorhall Orphanage Bugfixes and Expansion
 - Added Allow Dialogue Progress Bugfix
 - Added CritterSpawn Congestion Fix
@@ -29,6 +31,7 @@
 - Updated Assorted Mesh Fixes
 - Updated Realistic Water Two
 - Updated Pristine Vanilla Movement
+- Removed Septentrional Landscapes
 - Reverted some backend tweaks for better download reliability.
 
 ## Version 1.0.3
