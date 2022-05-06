@@ -27,6 +27,7 @@
 - Added Leviathan Animations - Two-Handed High Stance
 - Added Leviathan Animations - Two-Handed Normal Attacks
 - Added Leviathan Animations - Two-Handed Power Attacks
+- Rebalancing of Dragon War 2
 - Updated Contextual Camera
 - Updated Stop On Slash
 - Updated Nilhelm - Quest Expensaion
