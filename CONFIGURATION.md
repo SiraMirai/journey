@@ -63,7 +63,7 @@ Journey's default graphics settings are set to its `Medium` preset. For better p
 ![Graphics Options](https://raw.githubusercontent.com/SiraMirai/journey/main/images/graphics-options.png)
 ![Graphics Options](https://raw.githubusercontent.com/SiraMirai/journey/main/images/graphics-options2.png)
 
-Double click on `SSE Display Tweaks - Journey Settings` and under `Patches & Fixes` and set the resolution to match your monitor resolution and remove the # at the start of the line.
+Double click on `SSE Display Tweaks - Journey Settings` under `Patches & Fixes` and set the resolution to match your monitor resolution and remove the # at the start of the line.
 
 ## Optionals
 
