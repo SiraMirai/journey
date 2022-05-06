@@ -23,10 +23,13 @@
 - Added Allow Dialogue Progress Bugfix
 - Added CritterSpawn Congestion Fix
 - Added Stay At System Page
+- Added Realistic Dog Sounds
+- Added Realistic Husky Sounds
 - Added Sound Hammering Sounds
 - Added Leviathan Animations - Two-Handed High Stance
 - Added Leviathan Animations - Two-Handed Normal Attacks
 - Added Leviathan Animations - Two-Handed Power Attacks
+- Added Fish Plaque Fix
 - Rebalancing of Dragon War 2
 - Updated Contextual Camera
 - Updated Stop On Slash
