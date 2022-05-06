@@ -42,7 +42,7 @@ Journey's aims with gameplay modification is to remain unintrusive while enhanci
 
 ### Discussion and Support
 
-Support for Journey is offered in [The Animonculory Server](https://discord.gg/DffHKcszfg) or in the issues section of the Journey GitHub. If you have any questions, want to discuss gameplay, or if you find any mistakes in documentation, please report it in the Animonculory Server's support channel.
+Support for Journey is offered in the [Lost Outpost](https://discord.gg/WF66mMu) or in the issues section of the Journey GitHub. If you have any questions, want to discuss gameplay, or if you find any mistakes in documentation, please report it in the Lost Outpost's support channel.
 
 ### List Contents
 
