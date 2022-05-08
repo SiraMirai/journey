@@ -42,6 +42,11 @@
 - Removed Septentrional Landscapes
 - Reverted some backend tweaks for better download reliability.
 
+
+## Version 1.0.3.1
+- Removed The Dwemer (Taken down from the Nexus)
+
+
 ## Version 1.0.3
 - Added Arachnomancy - A Spider Scrolls Overhaul.
 - Added Vanargand Animations - Sneak Crossbows.
@@ -50,6 +55,7 @@
 - ENB Tweaks.
 - Fixed Sven facegen bug.
 - Tweaks to backend.
+
 
 ## Version 1.0.2
 - Added True Directional Movement
