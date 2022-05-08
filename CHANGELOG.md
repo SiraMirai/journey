@@ -32,6 +32,7 @@
 - Added Leviathan Animations - Two-Handed Power Attacks
 - Added Fish Plaque Fix
 - Rebalancing of Dragon War 2
+- Readded SkyUI - Survival Mode Integration
 - Updated Contextual Camera
 - Updated Stop On Slash
 - Updated Nilhelm - Quest Expensaion
