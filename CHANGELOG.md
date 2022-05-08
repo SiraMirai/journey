@@ -12,6 +12,7 @@
 - Added Skyrim Remastered - Glaciers and Ice
 - Added Cathedral - 3D Thistle
 - Added Iconic Statues
+- Added SMIM Barrel Expansion
 - Added Eastern Dwemer Towers of Solstheim
 - Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
 - Added Bonemold Weapon Pack - aMidianBorn Color Match
