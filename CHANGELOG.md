@@ -14,6 +14,7 @@
 - Added Iconic Statues
 - Added SMIM Barrel Expansion
 - Added Eastern Dwemer Towers of Solstheim
+- Added JS Dwemer Artefacts, Ichor Barrels, Kitchenware, Dwarven Oil, and Essence Extractor
 - Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
 - Added Bonemold Weapon Pack - aMidianBorn Color Match
 - Added Bonemold in Solstheim - An Integration Mod
