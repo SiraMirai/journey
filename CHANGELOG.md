@@ -10,6 +10,7 @@
 # Changelog
 ## Version 1.1.0 [Unreleased]
 - Added Skyrim Remastered - Glaciers and Ice
+- Added Lanterns of Skyrim II
 - Added Cathedral - 3D Thistle
 - Added Iconic Statues
 - Added SMIM Barrel Expansion
@@ -33,6 +34,7 @@
 - Added Leviathan Animations - Two-Handed Power Attacks
 - Added Fish Plaque Fix
 - Added Ish's Respec Mod
+- Removed Relighting Skyrim Exteriors
 - Rebalancing of Dragon War 2
 - Readded SkyUI - Survival Mode Integration
 - Updated Contextual Camera
