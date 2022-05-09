@@ -32,6 +32,7 @@
 - Added Leviathan Animations - Two-Handed Normal Attacks
 - Added Leviathan Animations - Two-Handed Power Attacks
 - Added Fish Plaque Fix
+- Added Ish's Respec Mod
 - Rebalancing of Dragon War 2
 - Readded SkyUI - Survival Mode Integration
 - Updated Contextual Camera
