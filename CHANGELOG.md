@@ -10,6 +10,7 @@
 # Changelog
 ## Version 1.1.0 [Unreleased]
 - Added Skyrim Remastered - Glaciers and Ice
+- Added Cathedral Night Skies
 - Added Lanterns of Skyrim II
 - Added Cathedral - 3D Thistle
 - Added Iconic Statues
