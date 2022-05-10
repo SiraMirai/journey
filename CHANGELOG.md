@@ -12,6 +12,7 @@
 - Added Skyrim Remastered - Glaciers and Ice
 - Added Cathedral Night Skies
 - Added Lanterns of Skyrim II
+- Added Farmhouse Chimneys
 - Added Cathedral - 3D Thistle
 - Added Iconic Statues
 - Added SMIM Barrel Expansion
