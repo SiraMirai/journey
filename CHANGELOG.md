@@ -20,7 +20,7 @@
 - Added JK's Blue Palace
 - Added JK's Palace of the Kings
 - Added JK's Mistveil KEep
-- Added JK's nderstone Keep
+- Added JK's Understone Keep
 - Added JK's Septimus Signus's Outpost
 - Added JK's Interiors Lite
 - Added Eastern Dwemer Towers of Solstheim
