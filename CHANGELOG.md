@@ -20,6 +20,7 @@
 - Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
 - Added Bonemold Weapon Pack - aMidianBorn Color Match
 - Added Bonemold in Solstheim - An Integration Mod
+- Added Dragon War - Rescaled
 - Added WACCF ACE Lite
 - Added Simple Wearable Lanters
 - Added Honorhall Orphanage Bugfixes and Expansion
@@ -36,7 +37,6 @@
 - Added Fish Plaque Fix
 - Added Ish's Respec Mod
 - Removed Relighting Skyrim Exteriors
-- Rebalancing of Dragon War 2
 - Readded SkyUI - Survival Mode Integration
 - Updated Contextual Camera
 - Updated Stop On Slash
