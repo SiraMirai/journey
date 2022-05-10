@@ -16,6 +16,8 @@
 - Added Cathedral - 3D Thistle
 - Added Iconic Statues
 - Added SMIM Barrel Expansion
+- Added JK's Dragonsreach
+- Added JK's Interiors Lite
 - Added Eastern Dwemer Towers of Solstheim
 - Added JS Dwemer Artefacts, Ichor Barrels, Kitchenware, Dwarven Oil, and Essence Extractor
 - Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
