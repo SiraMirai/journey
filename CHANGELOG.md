@@ -35,6 +35,7 @@
 - Added Leviathan Animations - Two-Handed Normal Attacks
 - Added Leviathan Animations - Two-Handed Power Attacks
 - Added Fish Plaque Fix
+- Added Sidequests of Skyrim
 - Added Ish's Respec Mod
 - Replaced Dwarven Armour and Weapon textures with aMidianBorn
 - Removed Relighting Skyrim Exteriors
@@ -48,6 +49,7 @@
 - Updated Realistic Water Two
 - Updated Pristine Vanilla Movement
 - Removed Septentrional Landscapes
+- Removed Missives
 - Reverted some backend tweaks for better download reliability.
 
 
