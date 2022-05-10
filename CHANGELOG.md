@@ -22,7 +22,8 @@
 - Added Bonemold Weapon Pack - aMidianBorn Color Match
 - Added Bonemold in Solstheim - An Integration Mod
 - Added Dragon War - Rescaled
-- Added SimplestHorses
+- Added Simplest Horses
+- Added Crystal Mudcrabs
 - Added WACCF ACE Lite
 - Added Simple Wearable Lanters
 - Added Honorhall Orphanage Bugfixes and Expansion
