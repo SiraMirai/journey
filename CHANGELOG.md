@@ -36,6 +36,7 @@
 - Added Leviathan Animations - Two-Handed Power Attacks
 - Added Fish Plaque Fix
 - Added Ish's Respec Mod
+- Replaced Dwarven Armour and Weapon textures with aMidianBorn
 - Removed Relighting Skyrim Exteriors
 - Readded SkyUI - Survival Mode Integration
 - Updated Contextual Camera
