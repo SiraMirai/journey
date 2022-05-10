@@ -1,4 +1,4 @@
-<a href="https://raw.githubusercontent.com/SiraMirai/journey/main/images/Jourmby.png"><img src="/images/Journey169v3.webp" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/SiraMirai/journey/main/images/Jourmby.png"><img src="/images/Journey Banner3.webp" target="_blank"></a>
 
 ---
 
