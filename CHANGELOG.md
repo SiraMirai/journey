@@ -48,6 +48,7 @@
 - Added Sidequests of Skyrim
 - Added Dovahkiin's Vault
 - Added Ish's Respec Mod
+- Added Planewalker font to Optional
 - Replaced Dwarven Armour and Weapon textures with aMidianBorn
 - Removed Relighting Skyrim Exteriors
 - Readded SkyUI - Survival Mode Integration
