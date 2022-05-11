@@ -29,6 +29,7 @@
 - Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
 - Added Bonemold Weapon Pack - aMidianBorn Color Match
 - Added Bonemold in Solstheim - An Integration Mod
+- Added Sexier Vanilla - Guards - Immersion Tweaks
 - Added Dragon War - Rescaled
 - Added Simplest Horses
 - Added Crystal Mudcrabs
