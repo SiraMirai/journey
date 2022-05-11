@@ -12,6 +12,7 @@
 - Added Skyrim Remastered - Glaciers and Ice
 - Added Cathedral Night Skies
 - Added Lanterns of Skyrim II
+- Added Embers XD
 - Added Farmhouse Chimneys
 - Added Cathedral - 3D Thistle
 - Added Iconic Statues
@@ -62,6 +63,7 @@
 - Updated Pristine Vanilla Movement
 - Removed Septentrional Landscapes
 - Removed Missives
+- Removed Embers HD
 - Reverted some backend tweaks for better download reliability.
 
 
