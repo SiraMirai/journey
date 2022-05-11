@@ -65,7 +65,8 @@
 - Removed Septentrional Landscapes
 - Removed Missives
 - Removed Embers HD
-- Reverted some backend tweaks for better download reliability.
+- Removed Wonders of Weather due to CTD issues in main story
+- Reverted some backend tweaks for better download reliability
 
 
 ## Version 1.0.3.1
