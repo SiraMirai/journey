@@ -8,7 +8,7 @@
 
 ---
 
-**Download Journey: [Journey.wabbajack](https://github.com/SiraMirai/journey/releases/download/1.0.3/Journey-1.0.3.wabbajack)**
+**Download Journey: [Journey.wabbajack](https://github.com/SiraMirai/journey/releases/download/1.0.3.1/Journey-1.0.3.1.wabbajack)**
 
 **Modlist Support: [Lost Outpost](https://discord.gg/WF66mMu)**
 
