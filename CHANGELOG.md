@@ -72,7 +72,7 @@
 - Updated Pristine Vanilla Movement
 - Removed Septentrional Landscapes
 - Removed Relighting Skyrim
-- Removed Ambiance Light Colours
+- Removed Ambiance
 - Removed Missives
 - Removed Embers HD
 - Removed Wonders of Weather due to CTD issues in main story
