@@ -55,6 +55,7 @@
 - Added Leviathan Animations - Two-Handed Normal Attacks
 - Added Leviathan Animations - Two-Handed Power Attacks
 - Added Fish Plaque Fix
+- Added Cathedral - 3D Black Mountain Flowers - for Interesting NPCs
 - Added Sidequests of Skyrim
 - Added Dovahkiin's Vault
 - Added Ish's Respec Mod
