@@ -29,7 +29,11 @@
 - Added JK's Septimus Signus's Outpost
 - Added JK's Interiors Lite
 - Added Eastern Dwemer Towers of Solstheim
-- Added JS Dwemer Artefacts, Ichor Barrels, Kitchenware, Dwarven Oil, and Essence Extractor
+- Added JS Dwemer Artefacts
+- Added JS Dwemer Ichor Barrels
+- Added JS Dwemer Kitchenware
+- Added JS Dwarven Oil
+- Added JS Essence Extractor
 - Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
 - Added Bonemold Weapon Pack - aMidianBorn Color Match
 - Added Bonemold in Solstheim - An Integration Mod
