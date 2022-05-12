@@ -13,6 +13,10 @@
 - Added Cathedral Night Skies
 - Added Lanterns of Skyrim II
 - Added Embers XD
+- Added Enhanced Lights and FX
+- Added ELFX - Hearthfire Light Addon
+- Added ELFX Fixes
+- Added ELFX SMIM FPS Performance Patch
 - Added Farmhouse Chimneys
 - Added Cathedral - 3D Thistle
 - Added Iconic Statues
@@ -63,6 +67,8 @@
 - Updated Realistic Water Two
 - Updated Pristine Vanilla Movement
 - Removed Septentrional Landscapes
+- Removed Relighting Skyrim
+- Removed Ambiance Light Colours
 - Removed Missives
 - Removed Embers HD
 - Removed Wonders of Weather due to CTD issues in main story
