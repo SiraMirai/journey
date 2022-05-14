@@ -26,7 +26,7 @@
 - Added JK's Palace of the Kings
 - Added JK's Mistveil Keep
 - Added JK's Understone Keep
-- Added JK's Septimus Signus's Outpost
+- Added JK's Sky Haven Temple (Interior Only)
 - Added JK's Interiors Lite
 - Added Eastern Dwemer Towers of Solstheim
 - Added JS Dwemer Artefacts
