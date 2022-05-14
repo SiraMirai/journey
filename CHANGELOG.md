@@ -38,6 +38,7 @@
 - Added Bonemold Weapon Pack - aMidianBorn Color Match
 - Added Bonemold in Solstheim - An Integration Mod
 - Added Sexier Vanilla - Guards - Immersion Tweaks
+- Added Cloaks and Capes
 - Added Dragon War - Rescaled
 - Added Simplest Horses
 - Added Crystal Mudcrabs
@@ -77,6 +78,8 @@
 - Removed Ambiance
 - Removed Missives
 - Removed Embers HD
+- Removed Winter is Coming
+- Removed Cloaks of Skyrim
 - Removed Wonders of Weather due to CTD issues in main story
 - Reverted some backend tweaks for better download reliability
 
