@@ -63,6 +63,7 @@
 - Replaced Dwarven Armour and Weapon textures with aMidianBorn
 - Removed Relighting Skyrim Exteriors
 - Readded SkyUI - Survival Mode Integration
+- Updated Skyland AIO
 - Updated Contextual Camera
 - Updated Stop On Slash
 - Updated Nilhelm - Quest Expensaion
