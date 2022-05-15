@@ -12,6 +12,7 @@
 - Added Soaking Wet - Character Wetness Effect
 - Added Skyrim Remastered - Glaciers and Ice
 - Added Cathedral Night Skies
+- Added Nilhelm Wood Pass
 - Added Lanterns of Skyrim II
 - Added Embers XD
 - Added Enhanced Lights and FX
