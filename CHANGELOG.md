@@ -9,6 +9,7 @@
 ---
 # Changelog
 ## Version 1.1.0 [Unreleased]
+- Added Soaking Wet - Character Wetness Effect
 - Added Skyrim Remastered - Glaciers and Ice
 - Added Cathedral Night Skies
 - Added Lanterns of Skyrim II
@@ -17,8 +18,12 @@
 - Added ELFX - Hearthfire Light Addon
 - Added ELFX Fixes
 - Added ELFX SMIM FPS Performance Patch
+- Added Veydosebrom Regions
+- Added Folkvangr
+- Added QW's Grass Patch
 - Added Farmhouse Chimneys
 - Added Cathedral - 3D Thistle
+- Added Cathedral - 3D Tudra Cotton
 - Added Iconic Statues
 - Added SMIM Barrel Expansion
 - Added JK's Dragonsreach
@@ -61,7 +66,10 @@
 - Added Dovahkiin's Vault
 - Added Ish's Respec Mod
 - Added Planewalker font to Optional
-- Added Hoth
+- Added Hoth - Bounty Hunter
+- Added Combat Music Fix SKSE
+- Added Forgotten City Music Bug Fixer
+- Added Forgotten City Decree Music Spell Fix
 - Replaced Dwarven Armour and Weapon textures with aMidianBorn
 - Changed included followers to be enabled by default
 - Removed Relighting Skyrim Exteriors
@@ -80,6 +88,9 @@
 - Removed Ambiance
 - Removed Missives
 - Removed Embers HD
+- Removed Cathedral Landscapes
+- Removed Skyrim Flora Overhaul
+- Removed Enhanced Landscapes Grasses
 - Removed Winter is Coming
 - Removed Cloaks of Skyrim
 - Removed Wonders of Weather due to CTD issues in main story
