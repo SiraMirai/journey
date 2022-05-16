@@ -23,6 +23,7 @@
 - Added Veydosebrom Regions
 - Added Folkvangr
 - Added QW's Grass Patch
+- Added A Clear Map of Skyrim
 - Added Farmhouse Chimneys
 - Added Cathedral - 3D Thistle
 - Added Cathedral - 3D Tudra Cotton
@@ -47,6 +48,8 @@
 - Added Sexier Vanilla - Guards - Immersion Tweaks
 - Added Cloaks and Capes
 - Added Dragon War - Rescaled
+- Added Open World Loot
+- Added Open World Loot - Vanilla Progression
 - Added Simplest Horses
 - Added Crystal Mudcrabs
 - Added WACCF ACE Lite
