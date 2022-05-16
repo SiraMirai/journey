@@ -97,6 +97,9 @@
 - Removed Wonders of Weather due to CTD issues in main story
 - Reverted some backend tweaks for better download reliability
 - Swapped Enhanced Blood Textures Full to Lite
+- Moved s6o6t LORE - Mundus Stones to Optionals
+- Added Optional: No Shield On Back - Equipped
+- Added Optional: No Shield On Back - Favourited
 
 
 ## Version 1.0.3.1
