@@ -15,6 +15,7 @@
 - Added Nilhelm Wood Pass
 - Added Lanterns of Skyrim II
 - Added Embers XD
+- Added Inferno - Fire Effects Redux
 - Added Enhanced Lights and FX
 - Added ELFX - Hearthfire Light Addon
 - Added ELFX Fixes
@@ -89,6 +90,7 @@
 - Removed Ambiance
 - Removed Missives
 - Removed Embers HD
+- Removed Ultimate HD Fire Effects
 - Removed Cathedral Landscapes
 - Removed Skyrim Flora Overhaul
 - Removed Enhanced Landscapes Grasses
