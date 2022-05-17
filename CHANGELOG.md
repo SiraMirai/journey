@@ -10,6 +10,7 @@
 # Changelog
 ## Version 1.1.0 [Unreleased]
 - Added Soaking Wet - Character Wetness Effect
+- Added Raven Rock Enhanced
 - Added Skyrim Remastered - Glaciers and Ice
 - Added Cathedral Night Skies
 - Added Nilhelm Wood Pass
@@ -92,6 +93,7 @@
 - Updated Realistic Water Two
 - Updated Pristine Vanilla Movement
 - Removed Septentrional Landscapes
+- Removed Quant Raven Rock
 - Removed Relighting Skyrim
 - Removed Ambiance
 - Removed Missives
