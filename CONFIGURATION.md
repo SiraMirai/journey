@@ -69,21 +69,6 @@ Double click on `SSE Display Tweaks - Journey Settings` under `Patches & Fixes` 
 
 Journey includes a small amount of optional content for you to play with, if you want.
 
-### Additional Followers and Companions
-
-Included, but disabled by default, are a number of optional companions for your travels in Skyrim and can be found under `New Followers` in Mod Organizer 2.
-
-- Enable the companion under `New Followers` that you want to enable.
-- Move all enabled plugins above `RealisticWaterTwo.esp`
-- If you're using the default `Journey` profile, any plugins with missing masters may be safely left disabled as they are included for the `Journey - Anniversary Edition` profile.
-
-Currently included optional companions are:
-- Inigo
-- Lucien
-- Auri
-- Gladys the Corgi
-- Merlin the Corgi
-
 ### Optional Tweaks
 
 Also included are a number of optional tweaks under `Optionals` in the Mod List. 
