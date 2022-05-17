@@ -29,6 +29,7 @@
 - Added Cathedral - 3D Tudra Cotton
 - Added Iconic Statues
 - Added SMIM Barrel Expansion
+- Added Solitude Objects SMIMed - festival ropes
 - Added JK's Dragonsreach
 - Added JK's Blue Palace
 - Added JK's Palace of the Kings
