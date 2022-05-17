@@ -45,6 +45,8 @@
 - Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
 - Added Bonemold Weapon Pack - aMidianBorn Color Match
 - Added Bonemold in Solstheim - An Integration Mod
+- Added Pirates Wield Cutlasses
+- Added Pirates Wield Scurvy Cutlasses
 - Added Sexier Vanilla - Guards - Immersion Tweaks
 - Added Cloaks and Capes
 - Added Dragon War - Rescaled
