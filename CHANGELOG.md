@@ -84,7 +84,6 @@
 - Added Forgotten City Decree Music Spell Fix
 - Replaced Dwarven Armour and Weapon textures with aMidianBorn
 - Changed included followers to be enabled by default
-- Removed Relighting Skyrim Exteriors
 - Readded SkyUI - Survival Mode Integration
 - Updated Skyland AIO
 - Updated Contextual Camera
