@@ -21,10 +21,12 @@
 - Added ELFX - Hearthfire Light Addon
 - Added ELFX Fixes
 - Added ELFX SMIM FPS Performance Patch
+- Added HPP - My Fixes - Hay
 - Added Veydosebrom Regions
 - Added Folkvangr
 - Added QW's Grass Patch
 - Added A Clear Map of Skyrim
+- Added Unique Map Weather Framework
 - Added Farmhouse Chimneys
 - Added Cathedral - 3D Thistle
 - Added Cathedral - 3D Tudra Cotton
@@ -54,6 +56,7 @@
 - Added Dragon War - Rescaled
 - Added Open World Loot
 - Added Open World Loot - Vanilla Progression
+- Added OWL - Full Creation Club Integration
 - Added Simplest Horses
 - Added Crystal Mudcrabs
 - Added WACCF ACE Lite
