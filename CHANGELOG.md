@@ -8,7 +8,7 @@
 
 ---
 # Changelog
-## Version 1.1.0.1 [Unreleased]
+## Version 1.1.0.1
 - Fixed ovewritten Embers XD mesh
 - Fixed grass issue without ENB from ENB complex grass textures being present
 
