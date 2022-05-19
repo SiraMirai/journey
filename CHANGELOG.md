@@ -8,6 +8,9 @@
 
 ---
 # Changelog
+## Version 1.1.0.1
+- Fixed ovewritten Embers XD mesh
+
 ## Version 1.1.0
 - Added Soaking Wet - Character Wetness Effect
 - Added Raven Rock Enhanced
