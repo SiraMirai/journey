@@ -8,7 +8,7 @@
 
 ---
 # Changelog
-## Version 1.1.0.1
+## Version 1.1.0.1 [Unreleased]
 - Fixed ovewritten Embers XD mesh
 
 ## Version 1.1.0
