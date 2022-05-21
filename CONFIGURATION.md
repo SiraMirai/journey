@@ -75,3 +75,4 @@ Also included are a number of optional tweaks under `Optionals` in the Mod List.
 
 Most optionals do not add any plugins and require no additional work to enable. For `Fast Travel For Survival Mode`, load the esp before `RealisticWaterTwo.esp`.
 
+For Rudy ENB files, refer to the [ENB Organizer](#enb-organizer)
