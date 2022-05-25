@@ -8,6 +8,23 @@
 
 ---
 # Changelog
+## Version 1.1.1 [Unreleased]
+- Added JS Dwemer Puzzle Cube
+- Added Cathedral - 3D Lavender
+- Added Cathedral Weathers - Storm Audio
+- Added Conditional Expressions - Subtle Face Animations
+- Added Disable Follower Collision
+- Added Complete Widescreen Fix (Optional)
+- Added Mfg Fix
+- Added Immersive HD Banners
+- Updated Cathedral - 3D Mountain Flowers
+- Updated Cathedral - 3D Cotton Tundra
+- Updated Soaking Wet
+- Updated More Informative Console
+- Updated Dragon War - Rescaled
+- Fixed floating smoke in Mistveil Keep
+- Swapped default ENB to Rudy for Obsidian
+
 ## Version 1.1.0.1
 - Fixed ovewritten Embers XD mesh
 - Fixed grass issue without ENB from ENB complex grass textures being present
