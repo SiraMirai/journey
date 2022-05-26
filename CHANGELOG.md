@@ -16,6 +16,7 @@
 - Added Cathedral Weathers - Storm Audio
 - Added Conditional Expressions - Subtle Face Animations
 - Added Disable Follower Collision
+- Added No Killmoves (Optional)
 - Added Complete Widescreen Fix (Optional)
 - Added Mfg Fix
 - Added Immersive HD Banners
