@@ -10,7 +10,7 @@
 # Changelog
 ## Version 1.1.1 [Unreleased]
 - Added Goetia Animations - Male Idle Walk And Run
-- Goetia Animations - Female Idle Walk And Run
+- Added Goetia Animations - Female Idle Walk And Run
 - Added JS Dwemer Puzzle Cube
 - Added Cathedral - 3D Lavender
 - Added Cathedral Weathers - Storm Audio
