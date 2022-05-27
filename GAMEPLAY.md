@@ -17,7 +17,7 @@ Journey is designed to provide a performance friendly but still aesthetically pl
 
 - <kbd>F</kbd> - In inventory, favourite selected item.
 - <kbd>H</kbd> - Access mount's saddlebag, make mounts follow or wait, call your mount, or give your current mount to a follower.
-- <kbd>L</kbd> - Toggles lantern that you have crafted and equipped.
+- <kbd>V</kbd> - Toggles lantern that you have crafted and equipped.
 - <kbd>Q</kbd> - Opens favourites menu.
 - <kbd>X</kbd> - Toggles compass visibility.
 - <kbd>Ctrl</kbd> - Toggles sneaking.
