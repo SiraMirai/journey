@@ -7,9 +7,37 @@
 </p>
 
 ---
-# Gameplay
+# Gameplay Guide
 
 Journey is designed to provide a performance friendly but still aesthetically pleasing upgrade to Skyrim's visuals. This same philosophy extends into its gameplay changes  through a curated list of included gameplay mods along with a few select new quests and places to explore.
+
+## Hotkeys
+
+### Gameplay Hotkeys
+
+- <kbd>F</kbd> - In inventory, favourite selected item.
+- <kbd>H</kbd> - Access mount's saddlebag, make mounts follow or wait, call your mount, or give your current mount to a follower.
+- <kbd>L</kbd> - Toggles lantern that you have crafted and equipped.
+- <kbd>Q</kbd> - Opens favourites menu.
+- <kbd>X</kbd> - Toggles compass visibility.
+- <kbd>Ctrl</kbd> - Toggles sneaking.
+- <kbd>Alt</kbd> - Toggles sprinting.
+- <kbd>Middle Mouse Button</kbd> - Locks on to enemies.
+- <kbd>Middle Mouse Wheel</kbd> - Switches locked on target.
+
+### ENB Hotkeys
+
+These hotkeys only apply when using an ENB
+
+- <kbd>Shift</kbd> + <kbd>F11</kbd> - Toggle FPS visibility.
+- <kbd>Shift</kbd> + <kbd>F12</kbd> - Toggle ENB on/off.
+- <kbd>Shift</kbd> + <kbd>Enter</kbd> - Toggles ENB configuration menu.
+
+### Console Hotkeys
+
+- <kbd>~</kbd> - Toggles console visibility.
+- <kbd>Ctrl</kbd> + ⬅️ - Copy to clipboard in console.
+- <kbd>End</kbd> - Paste from clipboard in console.
 
 ## Gameplay Overhaul
 
