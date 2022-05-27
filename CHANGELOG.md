@@ -8,7 +8,7 @@
 
 ---
 # Changelog
-## Version 1.1.1 [Unreleased]
+## Version 1.1.1
 - Added Goetia Animations - Male Idle Walk And Run
 - Added Goetia Animations - Female Idle Walk And Run
 - Added JS Dwemer Puzzle Cube
