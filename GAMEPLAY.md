@@ -138,7 +138,7 @@ To maintain a proper sense of progression and a better balanced experience, Jour
 | Creation Club | Quest - Plague of the Dead | 10 |
 | Creation Club | Quest - Vigil Enforcer Armor | 18 |
 | Creation Club | Player Home - Hendraheim | 25 |
-| Creation Club | Player Home - Myrwatch | 250 magicka |
+| Creation Club | Player Home - Myrwatch | 350 magicka |
 | Creation Club | Player Home - Gallows Hall | 35 |
 | Creation Club | Alternative Armors - Daedric Mail | 50 |
 | Creation Club | Alternative Armors - Daedric Plate | 50 |
