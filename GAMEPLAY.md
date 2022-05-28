@@ -111,11 +111,11 @@ In addition to SimonRim, Journey rounds out the experience with:
 
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) - Explore a lost underground Dwemer city and solve its mysteries.
 
-  > To begin, you'll be automatically approached by a courier when you enter any city. Alternatively, you can find the "Forgotten Ruins" in the south-west corner of Skyrim.
+  > Once you reach level 25, you'll be automatically approached by a courier when you enter any city. Alternatively, you can find the "Forgotten Ruins" in the south-west corner of Skyrim.
 
 - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
 
-  > Wyrmstooth begins automatically once the player reaches level 25 and has finished the Way of the Voice in the main questline.
+  > Wyrmstooth begins automatically once the you reach level 25 and have finished The Way of the Voice in the main questline.
 
 ## Quest Timing
 
