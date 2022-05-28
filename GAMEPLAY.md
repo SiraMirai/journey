@@ -124,5 +124,39 @@ To maintain a proper sense of progression and a better balanced experience, Jour
 | Dawnguard | Vampire Attacks | 19 |
 | Dawnguard | Dawnguard Recruitment | 20 |
 | Dragonborn | Dragonborn | 30 |
-
-
+| Creation Club | Quest - Ghosts of the Tribunal | 36 |
+| Creation Club | Quest - Bittercup | 28 |
+| Creation Club | Quest - The Contest | 25 |
+| Creation Club | Quest - Divine Crusader | 35 |
+| Creation Club | Quest - Civil War Champions | 20 |
+| Creation Club | Quest - The Cause | 50 |
+| Creation Club | Quest - Lord's Mail | 42 |
+| Creation Club | Quest - Redguard Elite Armaments | 30 |
+| Creation Club | Quest - Saints and Seducers | 30 |
+| Creation Club | Quest - Spell Knight Armor | 38 |
+| Creation Club | Quest - Plague of the Dead | 10 |
+| Creation Club | Quest - Vigil Enforcer Armor | 18 |
+| Creation Club | Player Home - Hendraheim | 25 |
+| Creation Club | Player Home - Myrwatch | 250 magicka |
+| Creation Club | Player Home - Gallows Hall | 35 |
+| Creation Club | Alternative Armors - Daedric Mail | 50 |
+| Creation Club | Alternative Armors - Daedric Plate | 50 |
+| Creation Club | Alternative Armors - Dragon Plate | 50 |
+| Creation Club | Alternative Armors - Dragonscale Armor | 50 |
+| Creation Club | Alternative Armors - Dwarven Mail | 15 |
+| Creation Club | Alternative Armors - Dwarven Plate | 15 |
+| Creation Club | Alternative Armors - Ebon Plate | 36 |
+| Creation Club | Alternative Armors - Elven Hunter | 30 |
+| Creation Club | Alternative Armors - Leather Armor | 27 |
+| Creation Club | Alternative Armors - Orcish Plate | 27 |
+| Creation Club | Alternative Armors - Orcish Scale | 30 |
+| Creation Club | Alternative Armors - Silver Armor | 18 |
+| Creation Club | Alternative Armors - Stalhrim Armor | 40 |
+| Creation Club | Weapons - Bow of Shadows | 36 |
+| Creation Club | Weapons - Dawnfang & Duskfang | 30 |
+| Creation Club | Weapons - Goldbrand | 40 |
+| Creation Club | Weapons - Headman's Cleaver | 32 |
+| Creation Club | Weapons - Ruin's Edge | 36 |
+| Creation Club | Weapons - Shadowrend | 35 |
+| Creation Club | Weapons - Sunder & Wraithguard | 35 |
+| Creation Club | Weapons - Umbra | 35 |
