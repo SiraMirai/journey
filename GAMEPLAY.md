@@ -11,6 +11,10 @@
 
 Journey is designed to provide a performance friendly but still aesthetically pleasing upgrade to Skyrim's visuals. This same philosophy extends into its gameplay changes  through a curated list of included gameplay mods along with a few select new quests and places to explore.
 
+(Hotkeys)[#hotkeys]
+(Quick Start)[#optional-quick-start]
+(Gameplay Overhaul)[#gameplay-overhaul]
+
 ## Hotkeys
 
 ### Gameplay Hotkeys
@@ -38,6 +42,10 @@ These hotkeys only apply when using an ENB
 - <kbd>~</kbd> - Toggles console visibility.
 - <kbd>Ctrl</kbd> + ⬅️ - Copy to clipboard in console.
 - <kbd>End</kbd> - Paste from clipboard in console.
+
+## Optional Quick Start
+
+Journey includes a customized version of [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953), which you can use to begin your journey past the intro with a given assortment of starting spells and equipment meant to mirror having gone through the tradtional cart ride.
 
 ## Gameplay Overhaul
 
