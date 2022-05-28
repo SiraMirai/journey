@@ -14,7 +14,7 @@ Journey is designed to provide a performance friendly but still aesthetically pl
 - [Hotkeys](#hotkeys)
 - [Quick Start](#optional-quick-start)
 - [Gameplay Overhaul](#gameplay-overhaul)
-- [Quests](#quests]
+- [Quests](#quests)
 - [Quest Timing](#quest-timing)
 
 ## Hotkeys
