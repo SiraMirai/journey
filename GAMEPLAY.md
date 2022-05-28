@@ -87,6 +87,35 @@ In addition to SimonRim, Journey rounds out the experience with:
 
   > Further refined with [Survival Control Panel](https://www.nexusmods.com/skyrimspecialedition/mods/41891), [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374), and [Fast Travel for Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/21067) (Optional)
 
+## Quests
+
+### Quest Improvements
+
+- [Silence is Golden](https://www.nexusmods.com/skyrimspecialedition/mods/50581) - Become a liar and keep the claw for yourself.
+- [A Lovely Letter Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916) - Chose alternatives to the quarrel between Sven and Faendal.
+- [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550) - Cleans up the quest to find Derkeethus to be more logical and expand the dialogue options for those involved.
+- [Finding Velehk Sain](https://www.nexusmods.com/skyrimspecialedition/mods/19815) - Provides additional content surrounding the strange gauntlet found in the Midden Dark and the four missing apprentices from the College of Winterhold.
+- [Finding Helgi... and Laelette - A Laid to Rest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/28973) - An overhaul to expand the mystery of the burned down house.
+- [Finding Susanna Alive - A Blood on the Ice Trigger Revision](https://www.nexusmods.com/skyrimspecialedition/mods/32512) - Changes the trigger for Blood on the Ice so you may actually meet Susanna the Wicked alive.
+- [Caught Red Handed - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/65708) - Expands the misc quest with Svana to provide new interesting outcomes.
+- [Save the Icerunner - Lights Out Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681) - What options do you really want to consider when Jaree-Ra attempts to include you in their plan to cause a shipwreck?
+- [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) - Expands Peryite's daedric quest with new conversations and paths to complete the quest.
+- [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285) - Expands Molag Bal's daedric quest to provide a new route that doesn't require you to give in to his will and obtain a new follower!
+- [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792) - Fixes sme issues and provides more flexible options with the quest at Nilheim.
+- [Improved College Entry - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22184) - More in depth options to joining the College of Winterhold, including the choice of your school.
+- [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300) - Back out of becoming a werewolf without trapping Skjor and Aela in the Underforge as well as other tweaks to the Companions.
+- [Paarhurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) - A new take on the quest and the ultimate fate of the Blades and Parthurnax
+
+### New Quests
+
+- [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) - Explore a lost underground Dwemer city and solve its mysteries.
+
+  > To begin, you'll be automatically approached by a courier when you enter any city. Alternatively, you can find the "Forgotten Ruins" in the south-west corner of Skyrim.
+
+- [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
+
+  > Wyrmstooth begins automatically once the player reaches level 25 and has finished the Way of the Voice in the main questline.
+
 ## Quest Timing
 
 To maintain a proper sense of progression and a better balanced experience, Journey uses [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464), [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427), and [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) to adjust the levels at which various quests and content start.
@@ -125,6 +154,8 @@ To maintain a proper sense of progression and a better balanced experience, Jour
 | Dawnguard | Vampire Attacks | 19 |
 | Dawnguard | Dawnguard Recruitment | 20 |
 | Dragonborn | Dragonborn | 30 |
+| Forgotten City | Forgotten City | 25 |
+| Wyrmstooth | Wyrmstooth | 25 |
 | Creation Club | Quest - Ghosts of the Tribunal | 36 |
 | Creation Club | Quest - Bittercup | 28 |
 | Creation Club | Quest - The Contest | 25 |
