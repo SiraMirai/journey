@@ -11,9 +11,9 @@
 
 Journey is designed to provide a performance friendly but still aesthetically pleasing upgrade to Skyrim's visuals. This same philosophy extends into its gameplay changes  through a curated list of included gameplay mods along with a few select new quests and places to explore.
 
-[Hotkeys](#hotkeys)
-[Quick Start](#optional-quick-start)
-[Gameplay Overhaul](#gameplay-overhaul)
+- [Hotkeys](#hotkeys)
+- [Quick Start](#optional-quick-start)
+- [Gameplay Overhaul](#gameplay-overhaul)
 
 ## Hotkeys
 
