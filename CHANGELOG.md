@@ -8,7 +8,7 @@
 
 ---
 # Changelog
-## Version 1.1.2 [Unreleased]
+## Version 1.1.2
 - Added Mari's Flora
 - Added Flora Mod Collection
 - Added Catehdral - 3D Clovers
