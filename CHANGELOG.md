@@ -13,6 +13,7 @@
 - Added Flora Mod Collection
 - Added Catehdral - 3D Clovers
 - Added Centered Sneak Meter + Compass on top combined optional
+- Fixed Forsworn Dagger tempering recipe
 - Removed Level Up Menu (but with messages) due to CTD issues
 
 ## Version 1.1.1
