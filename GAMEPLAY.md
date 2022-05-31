@@ -72,6 +72,8 @@ The full SimonRim experience is included in Journey:
 In addition to SimonRim, Journey rounds out the experience with:
 
 - [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) - An overhaul to the loot distribution to create a more refined open world experience with a better sense of progression.
+- [Skyrim Skill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/8889) - A plugin that allows for skills to be uncapped and skill rate levelling tweaks.
+  > Journey includes a custom skill uncapper preset that tweaks skill levelling rates.
 - [Antiquary](https://www.nexusmods.com/skyrimspecialedition/mods/44413) - An overhaul of Skyrim's artifacts to feel more potent while still not breaking the game's balance.
 - [Amalgam](https://www.nexusmods.com/skyrimspecialedition/mods/66283) - An overhaul of giants, animals, and spriggans to provide better scaling across levels and provide more realistic  animal behaviour
 - [Haugbui](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - An overhaul to draugr  to provide better balance, new itmes, unique bosses and more variety.
