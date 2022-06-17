@@ -16,6 +16,7 @@
 - Added Lost Races of Aetherius
 - Added Realistic Aspen Trees
 - Added JS Attunement Sphere and Lexicons
+- Added Dear Diary Dark Mode
 - Added Curated Bosses for True HUD
 
 ## Version 1.1.2
