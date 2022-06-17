@@ -14,6 +14,7 @@
 - Added Race Compatibility Dialogue SSE
 - Added Lost Races of Aetherius
 - Oblivion - An Atronach Forge Overhaul
+- Added Improvement Names Customized SSE
 - Added Distinct Interiors
 - Added Distinct Interiors Redux
 - Added Realistic Aspen Trees
