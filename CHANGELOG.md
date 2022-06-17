@@ -8,6 +8,13 @@
 
 ---
 # Changelog
+## Version 1.2.0 [Unreleased]
+- Added Distinct Interiors
+- Added Distinct Interiors Redux
+- Added RaceCompatibility SSE
+- Added Race Compatibility Dialogue SSE
+- Added Lost Races of Aetherius
+
 ## Version 1.1.2
 - Added Mari's Flora
 - Added Flora Mod Collection
