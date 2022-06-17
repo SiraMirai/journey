@@ -20,6 +20,15 @@
 - Added JS Attunement Sphere and Lexicons
 - Added Dear Diary Dark Mode
 - Added Curated Bosses for True HUD
+- Updated Aehterius - A Race Overhaul
+- Updated Mysticism - A Magic Overhaul
+- Updated Adamant - A Perk Overhaul
+- Updated Mundus - A Standing Stones Overhaul
+- Updated Blade and Blunt - A Combat Overhaul
+- Updated Apothecary - An Alchemy Overhaul
+- Updated Pilgrim - A Religion Overhaul
+- Updated Thaumaturgy - An Enchanting Overhaul
+- Updated Hand to Hand - An Adamant Addon
 - Updated Arachnomacy - A Spider Scrolls Overhaul
 
 ## Version 1.1.2
