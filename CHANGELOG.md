@@ -20,6 +20,7 @@
 - Added JS Attunement Sphere and Lexicons
 - Added Dear Diary Dark Mode
 - Added Curated Bosses for True HUD
+- Updated Arachnomacy - A Spider Scrolls Overhaul
 
 ## Version 1.1.2
 - Added Mari's Flora
