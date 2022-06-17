@@ -9,6 +9,7 @@
 ---
 # Changelog
 ## Version 1.2.0 [Unreleased]
+- Added Beyond Skyrim - Bruma
 - Added RaceCompatibility SSE
 - Added Race Compatibility Dialogue SSE
 - Added Lost Races of Aetherius
