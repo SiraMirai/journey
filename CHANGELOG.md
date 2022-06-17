@@ -14,6 +14,7 @@
 - Added RaceCompatibility SSE
 - Added Race Compatibility Dialogue SSE
 - Added Lost Races of Aetherius
+- Added JS Attunement Sphere and Lexicons
 
 ## Version 1.1.2
 - Added Mari's Flora
