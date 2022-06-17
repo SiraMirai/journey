@@ -9,11 +9,12 @@
 ---
 # Changelog
 ## Version 1.2.0 [Unreleased]
-- Added Distinct Interiors
-- Added Distinct Interiors Redux
 - Added RaceCompatibility SSE
 - Added Race Compatibility Dialogue SSE
 - Added Lost Races of Aetherius
+- Oblivion - An Atronach Forge Overhaul
+- Added Distinct Interiors
+- Added Distinct Interiors Redux
 - Added Realistic Aspen Trees
 - Added JS Attunement Sphere and Lexicons
 - Added Dear Diary Dark Mode
