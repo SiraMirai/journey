@@ -21,7 +21,7 @@
 - Added JS Attunement Sphere and Lexicons
 - Added Dear Diary Dark Mode
 - Added Curated Bosses for True HUD
-- Updated Aehterius - A Race Overhaul
+- Updated Aetherius - A Race Overhaul
 - Updated Mysticism - A Magic Overhaul
 - Updated Adamant - A Perk Overhaul
 - Updated Mundus - A Standing Stones Overhaul
