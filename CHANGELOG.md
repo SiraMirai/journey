@@ -17,6 +17,7 @@
 - Added Vanilla Hair Replacer
 - Added KS Hairdo's Lite
 - Added Oblivion - An Atronach Forge Overhaul
+- Added Harvest Your Blood for Septimus
 - Added Improvement Names Customized SSE
 - Added Remember Lockpick Angle
 - Added Unarmed Weapon Speed Scaling
