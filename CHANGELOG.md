@@ -32,6 +32,7 @@
 - Updated Thaumaturgy - An Enchanting Overhaul
 - Updated Hand to Hand - An Adamant Addon
 - Updated Arachnomacy - A Spider Scrolls Overhaul
+- Updated SSE Display Tweaks
 
 ## Version 1.1.2
 - Added Mari's Flora
