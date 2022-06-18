@@ -14,6 +14,8 @@
 - Added RaceCompatibility SSE
 - Added Race Compatibility Dialogue SSE
 - Added Lost Races of Aetherius
+- Added Vanilla Hair Replacer
+- Added KS Hairdo's Lite
 - Added Oblivion - An Atronach Forge Overhaul
 - Added Improvement Names Customized SSE
 - Added Remember Lockpick Angle
@@ -25,6 +27,7 @@
 - Added JS Attunement Sphere and Lexicons
 - Added Dear Diary Dark Mode
 - Added Curated Bosses for True HUD
+- Added Ethereal Immunity
 - Updated Aetherius - A Race Overhaul
 - Updated Mysticism - A Magic Overhaul
 - Updated Adamant - A Perk Overhaul
@@ -36,7 +39,12 @@
 - Updated Hand to Hand - An Adamant Addon
 - Updated Arachnomacy - A Spider Scrolls Overhaul
 - Updated Paarthurnax - Quest Expansion
+- Updated zzjay's Horse Overhaul
+- Updated Simplest Horses
+- Updated NPCs Wear Amulets of Mara
+- Updated Conditional Expressions
 - Updated SSE Display Tweaks
+- Removed KS Hairdos
 
 ## Version 1.1.2
 - Added Mari's Flora
