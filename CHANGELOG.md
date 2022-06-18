@@ -16,6 +16,9 @@
 - Added Lost Races of Aetherius
 - Oblivion - An Atronach Forge Overhaul
 - Added Improvement Names Customized SSE
+- Added Remember Lockpick Angle
+- Added Unarmed Weapon Speed Scaling
+- Added Keyword Item Distributor
 - Added Distinct Interiors
 - Added Distinct Interiors Redux
 - Added Realistic Aspen Trees
