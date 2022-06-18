@@ -42,6 +42,10 @@
 - Updated zzjay's Horse Overhaul
 - Updated Simplest Horses
 - Updated NPCs Wear Amulets of Mara
+- Updated Immersive Patrols
+- Updated Honorhall Orphanage Bugfixes and Expansion
+- Updated MoreHUD
+- Updated More Informative Console
 - Updated Conditional Expressions
 - Updated SSE Display Tweaks
 - Removed KS Hairdos
