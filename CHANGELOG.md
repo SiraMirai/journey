@@ -35,6 +35,7 @@
 - Updated Thaumaturgy - An Enchanting Overhaul
 - Updated Hand to Hand - An Adamant Addon
 - Updated Arachnomacy - A Spider Scrolls Overhaul
+- Updated Paarthurnax - Quest Expansion
 - Updated SSE Display Tweaks
 
 ## Version 1.1.2
