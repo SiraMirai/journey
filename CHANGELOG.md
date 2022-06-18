@@ -14,7 +14,7 @@
 - Added RaceCompatibility SSE
 - Added Race Compatibility Dialogue SSE
 - Added Lost Races of Aetherius
-- Oblivion - An Atronach Forge Overhaul
+- Added Oblivion - An Atronach Forge Overhaul
 - Added Improvement Names Customized SSE
 - Added Remember Lockpick Angle
 - Added Unarmed Weapon Speed Scaling
