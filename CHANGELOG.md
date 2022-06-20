@@ -11,6 +11,8 @@
 ## Version 1.2.0 [Unreleased]
 - Added Beyond Skyrim - Bruma
 - Added Beyond Skyrim - Wares of Tamriel
+- Added Skyrim's Got Talent
+- Added Flute Animation Fix
 - Added RaceCompatibility SSE
 - Added Race Compatibility Dialogue SSE
 - Added Lost Races of Aetherius
@@ -18,17 +20,24 @@
 - Added KS Hairdo's Lite
 - Added Oblivion - An Atronach Forge Overhaul
 - Added Harvest Your Blood for Septimus
+- Added SkyUI Weapons Pack
+- Added Animated Armoury - Animations Only
+- Added Automatic Animations - Including Icon Identification
 - Added Improvement Names Customized SSE
 - Added Remember Lockpick Angle
 - Added Unarmed Weapon Speed Scaling
 - Added Keyword Item Distributor
+- Added East Empire Company Armor
 - Added Distinct Interiors
 - Added Distinct Interiors Redux
 - Added Realistic Aspen Trees
+- Added Cathedral 3D Snowberries
+- Added Cathedral Snowberries - Inventory - Wreath - Hearthfires Planter
 - Added JS Attunement Sphere and Lexicons
 - Added Dear Diary Dark Mode
 - Added Curated Bosses for True HUD
 - Added Ethereal Immunity
+- Added NIF Preview
 - Updated Aetherius - A Race Overhaul
 - Updated Mysticism - A Magic Overhaul
 - Updated Adamant - A Perk Overhaul
@@ -45,6 +54,7 @@
 - Updated NPCs Wear Amulets of Mara
 - Updated Immersive Patrols
 - Updated Honorhall Orphanage Bugfixes and Expansion
+- Updated Caught Red Handed - Quest Expansion
 - Updated MoreHUD
 - Updated More Informative Console
 - Updated Conditional Expressions
