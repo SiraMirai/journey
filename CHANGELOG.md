@@ -11,6 +11,7 @@
 ## Version 1.2.0 [Unreleased]
 - Added Beyond Skyrim - Bruma
 - Added Beyond Skyrim - Wares of Tamriel
+- Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 - Added Skyrim's Got Talent
 - Added Flute Animation Fix
 - Added RaceCompatibility SSE
