@@ -15,6 +15,7 @@
 - Added Bruma Signs SMIM Patch
 - Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 - Added Legion - A Bruma Encounter Zone Overhaul
+- Added Solstheim Caravan Trader
 - Added CC Farming - Tweaks and Enhancements
 - Added More Radient Quests for the Companions
 - Added Skyrim's Got Talent
