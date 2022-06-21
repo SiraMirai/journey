@@ -28,6 +28,7 @@
 - Added SkyUI Weapons Pack
 - Added Animated Armoury - Animations Only
 - Added Automatic Animations - Including Icon Identification
+- Added Sleeping Expanded - Animations and NPC reactions
 - Added Improvement Names Customized SSE
 - Added Remember Lockpick Angle
 - Added Unarmed Weapon Speed Scaling
