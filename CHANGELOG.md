@@ -14,6 +14,7 @@
 - Added Beyond Skyrim in Skyrim
 - Added Bruma Signs SMIM Patch
 - Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
+- Added Legion - A Bruma Encounter Zone Overhaul
 - Added CC Farming - Tweaks and Enhancements
 - Added Skyrim's Got Talent
 - Added Flute Animation Fix
