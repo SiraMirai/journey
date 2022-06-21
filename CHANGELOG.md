@@ -20,6 +20,7 @@
 - Added RaceCompatibility SSE
 - Added Race Compatibility Dialogue SSE
 - Added Lost Races of Aetherius
+- Added Lilmothiit of Aetherius
 - Added Vanilla Hair Replacer
 - Added KS Hairdo's Lite
 - Added Oblivion - An Atronach Forge Overhaul
