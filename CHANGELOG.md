@@ -16,6 +16,7 @@
 - Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 - Added Legion - A Bruma Encounter Zone Overhaul
 - Added CC Farming - Tweaks and Enhancements
+- Added More Radient Quests for the Companions
 - Added Skyrim's Got Talent
 - Added Flute Animation Fix
 - Added RaceCompatibility SSE
