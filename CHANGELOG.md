@@ -18,6 +18,7 @@
 - Added Solstheim Caravan Trader
 - Added CC Farming - Tweaks and Enhancements
 - Added More Radient Quests for the Companions
+- Added Vittorias Alternate Wedding
 - Added Skyrim's Got Talent
 - Added Flute Animation Fix
 - Added RaceCompatibility SSE
