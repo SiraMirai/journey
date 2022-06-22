@@ -13,12 +13,19 @@
 - Added Beyond Skyrim - Wares of Tamriel
 - Added Beyond Skyrim in Skyrim
 - Added Bruma Signs SMIM Patch
+- Added Rare Curious - BS Bruma Synergy Patch
+- Added Goblins - Spear Addon and Bruma Patch
+- Added Plague of the Dead - BS Bruma Synergy Patch
+- Added The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined
 - Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 - Added Legion - A Bruma Encounter Zone Overhaul
 - Added Solstheim Caravan Trader
 - Added CC Farming - Tweaks and Enhancements
 - Added More Radient Quests for the Companions
 - Added Vittorias Alternate Wedding
+- Added Somebody Else's Problem - Ignore the Forsworn Conspiracy
+- Added Unquantum Forgemaster's Fingers
+- Added Hitting the Books - A Necromantic Grimoire Update
 - Added Skyrim's Got Talent
 - Added Flute Animation Fix
 - Added RaceCompatibility SSE
@@ -33,6 +40,8 @@
 - Added Animated Armoury - Animations Only
 - Added Automatic Animations - Including Icon Identification
 - Added Sleeping Expanded - Animations and NPC reactions
+- Added The Cause - Rare Curios Patch
+- Added Wyrmstooth - Creation Club Ingredient Patches
 - Added Improvement Names Customized SSE
 - Added Remember Lockpick Angle
 - Added Unarmed Weapon Speed Scaling
