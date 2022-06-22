@@ -80,6 +80,8 @@
 - Updated Conditional Expressions
 - Updated SSE Display Tweaks
 - Removed KS Hairdos
+- Removed The Fork of Horripilation
+- Removed The Rings of Old
 
 ## Version 1.1.2
 - Added Mari's Flora
