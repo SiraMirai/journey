@@ -47,6 +47,7 @@
 - Added Dear Diary Dark Mode
 - Added Curated Bosses for True HUD
 - Added Ethereal Immunity
+- Added Solitude Objects SMIMed - Castle Dour Spire and Solitude Well
 - Added NIF Preview
 - Updated Aetherius - A Race Overhaul
 - Updated Mysticism - A Magic Overhaul
