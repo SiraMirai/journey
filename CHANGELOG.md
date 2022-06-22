@@ -28,6 +28,9 @@
 - Added Hitting the Books - A Necromantic Grimoire Update
 - Added Skyrim's Got Talent
 - Added Flute Animation Fix
+- Added Talkative Dragons
+- Added Talkative Dragons - Less Talkative
+- Added Talkative Dragons Audio Replacer
 - Added RaceCompatibility SSE
 - Added Race Compatibility Dialogue SSE
 - Added Lost Races of Aetherius
