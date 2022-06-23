@@ -87,6 +87,7 @@
 - Removed KS Hairdos
 - Removed The Fork of Horripilation
 - Removed The Rings of Old
+- Removed No Levelled Uniques (Redundant with Open World Loot)
 
 ## Version 1.1.2
 - Added Mari's Flora
