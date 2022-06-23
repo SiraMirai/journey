@@ -61,6 +61,8 @@
 - Added Ethereal Immunity
 - Added Solitude Objects SMIMed - Castle Dour Spire and Solitude Well
 - Added NIF Preview
+- Updated Unofficial Skyrim Special Edition Patch
+- Updated Unofficial Skyrim Creation Club Content Patch
 - Updated Aetherius - A Race Overhaul
 - Updated Mysticism - A Magic Overhaul
 - Updated Adamant - A Perk Overhaul
