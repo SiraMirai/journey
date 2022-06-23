@@ -18,6 +18,7 @@
 - Added Plague of the Dead - BS Bruma Synergy Patch
 - Added The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined
 - Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
+- Added Beyond Skyrim Bruma - Timing is Everything Patch
 - Added Legion - A Bruma Encounter Zone Overhaul
 - Added Solstheim Caravan Trader
 - Added CC Farming - Tweaks and Enhancements
