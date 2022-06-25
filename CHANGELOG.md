@@ -92,6 +92,10 @@
 - Removed The Rings of Old
 - Removed No Levelled Uniques (Redundant with Open World Loot)
 
+## Version 1.1.2.1 [Unreleased]
+- Removed Improved Camera optional due to beta being down
+- Fixed install issue due to SKSE
+
 ## Version 1.1.2
 - Added Mari's Flora
 - Added Flora Mod Collection
