@@ -13,10 +13,13 @@
 - Added Beyond Skyrim - Wares of Tamriel
 - Added Beyond Skyrim in Skyrim
 - Added Bruma Signs SMIM Patch
+- Added Cloaks and Capes - Beyond Skyrim Bruma
 - Added Rare Curious - BS Bruma Synergy Patch
 - Added Goblins - Spear Addon and Bruma Patch
 - Added Plague of the Dead - BS Bruma Synergy Patch
 - Added The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined
+- Added Alyeid Consistency Suite
+- Added Red and Gold Wight Armor
 - Added Red and Gold Armor for Ayleid Wights (CC The Cause)
 - Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 - Added Beyond Skyrim Bruma - Timing is Everything Patch
@@ -59,10 +62,17 @@
 - Added Cathedral 3D Snowberries
 - Added Cathedral Snowberries - Inventory - Wreath - Hearthfires Planter
 - Added JS Attunement Sphere and Lexicons
+- Added JS Dwemer Control Cube
+- Added HD Meshes and Textures for Animal and Creature Drops
+- Added Hearthfire Crispy Dumplings
+- Added HD Bees and Honeycombs
+- Added True Homecooked Meals
 - Added Dear Diary Dark Mode
 - Added Curated Bosses for True HUD
 - Added Ethereal Immunity
 - Added Solitude Objects SMIMed - Castle Dour Spire and Solitude Well
+- Added Songs to Play Skyrim To - All In One
+- Added RaceMenu Memory Leak Hotfix
 - Added NIF Preview
 - Updated Unofficial Skyrim Special Edition Patch
 - Updated Unofficial Skyrim Creation Club Content Patch
@@ -76,6 +86,7 @@
 - Updated Thaumaturgy - An Enchanting Overhaul
 - Updated Hand to Hand - An Adamant Addon
 - Updated Arachnomacy - A Spider Scrolls Overhaul
+- Updated Dragon War - A Dragon Overhaul
 - Updated Paarthurnax - Quest Expansion
 - Updated zzjay's Horse Overhaul
 - Updated Simplest Horses
@@ -86,10 +97,15 @@
 - Updated MoreHUD
 - Updated More Informative Console
 - Updated Conditional Expressions
+- Updated Conditional Armor Type Animations
+- Updated Simple Dual Sheath
+- Updated Soaking Wet
 - Updated SSE Display Tweaks
 - Removed KS Hairdos
 - Removed The Fork of Horripilation
 - Removed The Rings of Old
+- Removed Songs to Explore To (included in AIO)
+- Removed Songs to Eat Venison To (included in AIO)
 - Removed No Levelled Uniques (Redundant with Open World Loot)
 
 ## Version 1.1.2.1 [Unreleased]
