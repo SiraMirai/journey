@@ -71,6 +71,7 @@
 - Added Curated Bosses for True HUD
 - Added Ethereal Immunity
 - Added Solitude Objects SMIMed - Castle Dour Spire and Solitude Well
+- Added Oblivion Symphonic Variations Remastered for Bruma
 - Added Songs to Play Skyrim To - All In One
 - Added RaceMenu Memory Leak Hotfix
 - Added NIF Preview
