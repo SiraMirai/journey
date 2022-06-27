@@ -73,8 +73,13 @@
 - Added Solitude Objects SMIMed - Castle Dour Spire and Solitude Well
 - Added Oblivion Symphonic Variations Remastered for Bruma
 - Added Songs to Play Skyrim To - All In One
+- Added Wilderness Witch Male Version
+- Added Wayfarer outfit with skirt as craftable option
 - Added RaceMenu Memory Leak Hotfix
 - Added NIF Preview
+- Added Practical Pirate Outfit HDT as optional
+- Added Wayfarer Outfit with Skirt HDT as optional
+- Moved HDT Cloaks and Capes to Optionals
 - Updated Unofficial Skyrim Special Edition Patch
 - Updated Unofficial Skyrim Creation Club Content Patch
 - Updated Aetherius - A Race Overhaul
