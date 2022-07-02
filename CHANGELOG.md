@@ -24,6 +24,13 @@
 - Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 - Added Beyond Skyrim Bruma - Timing is Everything Patch
 - Added Legion - A Bruma Encounter Zone Overhaul
+- Added Blade and Blunt - Sneak Addon
+- Added Mysticism - Jump Spell Addon
+- Added Adamant - Smithing Addon
+- Added Hand to Hand - Armor Addon
+- Added Hand to Hand - Locksmith Addon
+- Added Thaumaturgy - Jump Boots Addon
+- Added Thaumaturgy - Weapon Enchantment XP Tweaks
 - Added Solstheim Caravan Trader
 - Added CC Farming - Tweaks and Enhancements
 - Added More Radient Quests for the Companions
