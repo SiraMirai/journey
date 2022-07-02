@@ -23,6 +23,8 @@
 - Added Red and Gold Armor for Ayleid Wights (CC The Cause)
 - Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 - Added Beyond Skyrim Bruma - Timing is Everything Patch
+- Added C.O.I.N. - Coins of Interesting Natures
+- Added COIN - Open World Loot Patch
 - Added Legion - A Bruma Encounter Zone Overhaul
 - Added Blade and Blunt - Sneak Addon
 - Added Mysticism - Jump Spell Addon
@@ -101,6 +103,7 @@
 - Updated Hand to Hand - An Adamant Addon
 - Updated Arachnomacy - A Spider Scrolls Overhaul
 - Updated Dragon War - A Dragon Overhaul
+- Updated Bonemold in Solstheim
 - Updated Paarthurnax - Quest Expansion
 - Updated zzjay's Horse Overhaul
 - Updated Simplest Horses
