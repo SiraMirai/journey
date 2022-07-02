@@ -40,6 +40,7 @@
 - Added Hitting the Books - A Necromantic Grimoire Update
 - Added Skyrim's Got Talent
 - Added Flute Animation Fix
+- Added Bandit Lines Expansion - Dark Elf Addon
 - Added Talkative Dragons
 - Added Talkative Dragons - Less Talkative
 - Added Talkative Dragons Audio Replacer
