@@ -104,6 +104,7 @@
 - Updated Arachnomacy - A Spider Scrolls Overhaul
 - Updated Dragon War - A Dragon Overhaul
 - Updated Bonemold in Solstheim
+- Updated Pirate's Life for Me - A Creation Club Integration Mod
 - Updated Paarthurnax - Quest Expansion
 - Updated zzjay's Horse Overhaul
 - Updated Simplest Horses
