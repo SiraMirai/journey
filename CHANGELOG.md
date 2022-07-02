@@ -32,7 +32,7 @@
 - Added Thaumaturgy - Jump Boots Addon
 - Added Thaumaturgy - Weapon Enchantment XP Tweaks
 - Added Solstheim Caravan Trader
-- Added CC Farming - Tweaks and Enhancements
+- Added Creation Club Farming - Tweaks Enhancements and Quest Expansion
 - Added More Radient Quests for the Companions
 - Added Vittorias Alternate Wedding
 - Added Somebody Else's Problem - Ignore the Forsworn Conspiracy
