@@ -9,6 +9,7 @@
 ---
 # Changelog
 ## Version 1.2.0 [Unreleased]
+- Changed Skyrim version to 1.6.353
 - Added Beyond Skyrim - Bruma
 - Added Beyond Skyrim - Wares of Tamriel
 - Added Beyond Skyrim in Skyrim
