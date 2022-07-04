@@ -91,6 +91,56 @@
 - Added Practical Pirate Outfit HDT as optional
 - Added Wayfarer Outfit with Skirt HDT as optional
 - Moved HDT Cloaks and Capes to Optionals
+- 1.6 Update
+  - Updated SKSE
+  - Updated Address Library for SKSE
+  - Updated SSE Engine Fixes
+  - Updated Actor Limit Fix
+  - Updated Animated Static Reload Fix
+  - Updated Animation Motion Revolution
+  - Updated Auto Input Switcher
+  - Updated Better Jumping
+  - Updated Bug Fixes SSE
+  - Updated Combat Music Fix SKSE
+  - Updated ConsoleUtil SSE
+  - Updated Contextual Crosshair
+  - Updated Dynamic Animation Replacer
+  - Updated ENB Helper
+  - Updated ENB Input Disabler
+  - Updated Encounter Zones Unlocked
+  - Updated Enhanced Invisibility
+  - Updated Enhanced Reanimation
+  - Updated Faster HDT-SMP
+  - Updated Fix Notes for SkyUI
+  - Added I'm Walkin' Here
+  - Removed No Follower Collision
+  - Updated Improvement Names Customized
+  - Updated JContainers SE
+  - Updated Keyword Item Distributer
+  - Updated MCM Helper
+  - Updated MfgFix
+  - Updated  More Informative Console
+  - Updated MoreHUD
+  - Updated MoreHUD Inventory Edition
+  - Updated Oxygen Meter 2
+  - Updated PapyrusUtil
+  - Updated po3 Tweaks
+  - Updated RaceMenu
+  - Updated ScalformTranslationPP
+  - Updated Scrambled Bugs
+  - Updated Screenshot Helper
+  - Updated Security Overhaul SKSE
+  - Updated Skyrim Skill Uncapper
+  - Updated SmoothCam
+  - Updated Spell Perk Item Distributor
+  - Updated Stay At The System Page
+  - Updated Stop On Slash
+  - Updated Storm Lightning for SSE
+  - Updated Survival Control Panel
+  - Updated True Directional Movement
+  - Updated TrueHUD
+  - Updated Unique Map Weather Framework
+  - Updated Wash That Blood Off
 - Updated Unofficial Skyrim Special Edition Patch
 - Updated Unofficial Skyrim Creation Club Content Patch
 - Updated Aetherius - A Race Overhaul
