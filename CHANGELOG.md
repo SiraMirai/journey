@@ -25,6 +25,7 @@
 - Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 - Added Beyond Skyrim Bruma - Timing is Everything Patch
 - Added C.O.I.N. - Coins of Interesting Natures
+- Added C.O.I.N. - Merchant Exchange
 - Added COIN - Open World Loot Patch
 - Added Legion - A Bruma Encounter Zone Overhaul
 - Added Blade and Blunt - Sneak Addon
