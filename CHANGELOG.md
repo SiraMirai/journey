@@ -176,6 +176,7 @@
 - Removed The Fork of Horripilation
 - Removed The Rings of Old
 - Removed CritterSpawn Gongestion Fix
+- Removed Disable Follower Collision (function included in I'm Walkin' Here)
 - Removed Songs to Explore To (included in AIO)
 - Removed Songs to Eat Venison To (included in AIO)
 - Removed No Levelled Uniques (Redundant with Open World Loot)
