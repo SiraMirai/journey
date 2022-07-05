@@ -24,6 +24,7 @@
 - Added Red and Gold Armor for Ayleid Wights (CC The Cause)
 - Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 - Added Beyond Skyrim Bruma - Timing is Everything Patch
+- Added College of Winterhold - Quest Expansion
 - Added C.O.I.N. - Coins of Interesting Natures
 - Added C.O.I.N. - Merchant Exchange
 - Added COIN - Open World Loot Patch
