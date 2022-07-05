@@ -176,6 +176,7 @@
 - Removed Songs to Explore To (included in AIO)
 - Removed Songs to Eat Venison To (included in AIO)
 - Removed No Levelled Uniques (Redundant with Open World Loot)
+- Fixed Nighteye not functioning properly with default Rudy ENB
 
 ## Version 1.1.2.1 [Unreleased]
 - Removed Improved Camera optional due to beta being down
