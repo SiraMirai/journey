@@ -62,6 +62,7 @@
 - Added Automatic Animations - Including Icon Identification
 - Added Goetia Animations - Magic Spell Casting
 - Added DAR - Dynamic Swimming
+- Added Tools not weapons DAR animations
 - Added Sleeping Expanded - Animations and NPC reactions
 - Added The Cause - Rare Curios Patch
 - Added Wyrmstooth - Creation Club Ingredient Patches
