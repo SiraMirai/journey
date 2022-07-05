@@ -55,6 +55,7 @@
 - Added Lilmothiit of Aetherius
 - Added Vanilla Hair Replacer
 - Added KS Hairdo's Lite
+- Added JS Rumpled Rugs SE
 - Added Oblivion - An Atronach Forge Overhaul
 - Added Harvest Your Blood for Septimus
 - Added SkyUI Weapons Pack
@@ -92,6 +93,7 @@
 - Added Wayfarer outfit with skirt as craftable option
 - Added RaceMenu Memory Leak Hotfix
 - Added NIF Preview
+- Added Base Object Swapper
 - Added Practical Pirate Outfit HDT as optional
 - Added Wayfarer Outfit with Skirt HDT as optional
 - Moved HDT Cloaks and Capes to Optionals
