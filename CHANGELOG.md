@@ -189,7 +189,7 @@
 - Removed No Levelled Uniques (Redundant with Open World Loot)
 - Fixed Nighteye not functioning properly with default Rudy ENB
 
-## Version 1.1.2.1 [Unreleased]
+## Version 1.1.2.1
 - Removed Improved Camera optional due to beta being down
 - Fixed install issue due to SKSE
 
