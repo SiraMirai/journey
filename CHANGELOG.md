@@ -24,6 +24,7 @@
 - Added Red and Gold Armor for Ayleid Wights (CC The Cause)
 - Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
 - Added Beyond Skyrim Bruma - Timing is Everything Patch
+- Added The Mage's College
 - Added College of Winterhold - Quest Expansion
 - Added C.O.I.N. - Coins of Interesting Natures
 - Added C.O.I.N. - Merchant Exchange
@@ -180,6 +181,7 @@
 - Removed The Fork of Horripilation
 - Removed The Rings of Old
 - Removed CritterSpawn Gongestion Fix
+- Removed Economy Overhaul and Speechcraft Improvements
 - Removed Disable Follower Collision (function included in I'm Walkin' Here)
 - Removed Songs to Explore To (included in AIO)
 - Removed Songs to Eat Venison To (included in AIO)
