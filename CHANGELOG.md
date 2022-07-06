@@ -164,6 +164,7 @@
 - Updated Dragon War - A Dragon Overhaul
 - Updated Bonemold in Solstheim
 - Updated Pirate's Life for Me - A Creation Club Integration Mod
+- Updated Cathedral Armory
 - Updated Paarthurnax - Quest Expansion
 - Updated zzjay's Horse Overhaul
 - Updated Simplest Horses
@@ -187,6 +188,7 @@
 - Removed Songs to Explore To (included in AIO)
 - Removed Songs to Eat Venison To (included in AIO)
 - Removed No Levelled Uniques (Redundant with Open World Loot)
+- Removed aMidianBorn Stormcloak Officer Armour (Now included in Cathedral Armory)
 - Fixed Nighteye not functioning properly with default Rudy ENB
 
 ## Version 1.1.2.1
