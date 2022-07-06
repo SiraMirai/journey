@@ -29,6 +29,9 @@
 - Added Misc. College of Winterhold Tweaks
 - Added C.O.I.N. - Coins of Interesting Natures
 - Added C.O.I.N. - Merchant Exchange
+- Added Trade and Barter
+- Added Trade and Barter - Patches
+- Added Trade and Barter - Settings Loader
 - Added COIN - Open World Loot Patch
 - Added Legion - A Bruma Encounter Zone Overhaul
 - Added Blade and Blunt - Sneak Addon
