@@ -93,7 +93,7 @@
 - Added Songs to Play Skyrim To - All In One
 - Added Wilderness Witch Male Version
 - Added Wayfarer outfit with skirt as craftable option
-- Added RaceMenu Memory Leak Hotfix
+- Added PrivateProfileRedirector
 - Added NIF Preview
 - Added Base Object Swapper
 - Added Practical Pirate Outfit HDT as optional
