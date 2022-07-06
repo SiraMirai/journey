@@ -26,6 +26,7 @@
 - Added Beyond Skyrim Bruma - Timing is Everything Patch
 - Added The Mage's College
 - Added College of Winterhold - Quest Expansion
+- Added Misc. College of Winterhold Tweaks
 - Added C.O.I.N. - Coins of Interesting Natures
 - Added C.O.I.N. - Merchant Exchange
 - Added COIN - Open World Loot Patch
