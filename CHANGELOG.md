@@ -12,6 +12,7 @@
 - Changed Skyrim version to 1.6.353
 - Added Beyond Skyrim - Bruma
 - Added Beyond Skyrim - Wares of Tamriel
+- Added Skyrim Wayshrines - Immersive Fast Travel
 - Added Beyond Skyrim in Skyrim
 - Added Bruma Signs SMIM Patch
 - Added Cloaks and Capes - Beyond Skyrim Bruma
