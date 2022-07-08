@@ -173,6 +173,16 @@
 - Updated Happy Little Trees Add-On - DynDOLOD 3
 - Updated Security Overhaul SKSE - Add-ons
 - Updated JK's Blue Palace
+- Updated Whiterun Watchtower Doesn't Start Broken
+- Updated More Wooden Bridges
+- Updated Nilheim Wood Pass
+- Updated Cleaned Skyrim SE Textures
+- Updated Fixed Mesh Lighting
+- Updated Major Cities Mesh Overhaul
+- Updated Assorted Mesh Fixes
+- Updated Static Mesh Improvement Mod Improvement Mod
+- Updated Solitude Objects SMIMed - Festival Ropes
+- Updated JS Shrines of the Divines
 - Updated Paarthurnax - Quest Expansion
 - Updated zzjay's Horse Overhaul
 - Updated Simplest Horses
