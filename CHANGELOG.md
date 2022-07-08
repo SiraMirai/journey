@@ -169,6 +169,10 @@
 - Updated Bonemold in Solstheim
 - Updated Pirate's Life for Me - A Creation Club Integration Mod
 - Updated Cathedral Armory
+- Updated Happy Little Trees
+- Updated Happy Little Trees Add-On - DynDOLOD 3
+- Updated Security Overhaul SKSE - Add-ons
+- Updated JK's Blue Palace
 - Updated Paarthurnax - Quest Expansion
 - Updated zzjay's Horse Overhaul
 - Updated Simplest Horses
