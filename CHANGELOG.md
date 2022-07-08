@@ -97,6 +97,7 @@
 - Added Songs to Play Skyrim To - All In One
 - Added Wilderness Witch Male Version
 - Added Wayfarer outfit with skirt as craftable option
+- Added Modern Toggle Walk-Run Fix SE
 - Added PrivateProfileRedirector
 - Added NIF Preview
 - Added Base Object Swapper
