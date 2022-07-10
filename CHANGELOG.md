@@ -68,6 +68,8 @@
 - Added Animated Armoury - Animations Only
 - Added Automatic Animations - Including Icon Identification
 - Added Goetia Animations - Magic Spell Casting
+- Added Goetia Animations - Enchanted Staves
+- Added Goetia Animations - Alternate Movement for Destriction Staves
 - Added DAR - Dynamic Swimming
 - Added Tools not weapons DAR animations
 - Added Sleeping Expanded - Animations and NPC reactions
@@ -101,6 +103,8 @@
 - Added PrivateProfileRedirector
 - Added NIF Preview
 - Added Base Object Swapper
+- Added Vanilla Scripting Enhancements
+- Added Vanilla Script (micro)Optimizations
 - Added Practical Pirate Outfit HDT as optional
 - Added Wayfarer Outfit with Skirt HDT as optional
 - Moved HDT Cloaks and Capes to Optionals
