@@ -79,6 +79,8 @@
 - Added Remember Lockpick Angle
 - Added Unarmed Weapon Speed Scaling
 - Added Keyword Item Distributor
+- Added Male Argonian Shouts - Revoiced
+- Added Scabbards for Creation Club Swords
 - Added East Empire Company Armor
 - Added Distinct Interiors
 - Added Distinct Interiors Redux
