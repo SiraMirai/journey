@@ -175,6 +175,7 @@
 - Updated Hand to Hand - An Adamant Addon
 - Updated Arachnomacy - A Spider Scrolls Overhaul
 - Updated Dragon War - A Dragon Overhaul
+- Updated Forceful Tongue - Shouts Overhaul
 - Updated Bonemold in Solstheim
 - Updated Pirate's Life for Me - A Creation Club Integration Mod
 - Updated Cathedral Armory
