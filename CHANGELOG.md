@@ -81,6 +81,8 @@
 - Added Keyword Item Distributor
 - Added Male Argonian Shouts - Revoiced
 - Added Scabbards for Creation Club Swords
+- Added Simple CC Backback Rebalance
+- Added Skaal Heavy Armor
 - Added East Empire Company Armor
 - Added Distinct Interiors
 - Added Distinct Interiors Redux
@@ -207,6 +209,7 @@
 - Removed KS Hairdos
 - Removed The Fork of Horripilation
 - Removed The Rings of Old
+- Removed Baggage - CC Backpacks Rebalance
 - Removed CritterSpawn Gongestion Fix
 - Removed Economy Overhaul and Speechcraft Improvements
 - Removed Disable Follower Collision (function included in I'm Walkin' Here)
