@@ -218,6 +218,8 @@
 - Removed Songs to Eat Venison To (included in AIO)
 - Removed No Levelled Uniques (Redundant with Open World Loot)
 - Removed aMidianBorn Stormcloak Officer Armour (Now included in Cathedral Armory)
+- Removed Improved Follower Dialogue - Lydia
+- Removed Serana Dialogue Edit - Skyrim Special Edition
 - Fixed Nighteye not functioning properly with default Rudy ENB
 
 ## Version 1.1.2.1
