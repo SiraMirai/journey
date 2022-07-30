@@ -220,6 +220,13 @@
 - Removed aMidianBorn Stormcloak Officer Armour (Now included in Cathedral Armory)
 - Removed Improved Follower Dialogue - Lydia
 - Removed Serana Dialogue Edit - Skyrim Special Edition
+- Removed The Forgotten City
+- Removed The Forgotten City Music Bug Fixer
+- Removed The Forgotten City Entrence
+- Removed The Forgotten City Degree Music Spell Fix
+- Removed The Forgotten City - Delayed Start
+- Removed Literally Unplayable - The Forgotten City Patch
+- Removed The Forgotten City - No Audiobooks
 - Fixed Nighteye not functioning properly with default Rudy ENB
 
 ## Version 1.1.2.1
