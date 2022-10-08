@@ -8,7 +8,7 @@
 
 ---
 # Changelog
-## Version 1.2.0 [Unreleased]
+## Version 1.2.0 [Scrapped]
 - Changed Skyrim version to 1.6.353
 - Added Beyond Skyrim - Bruma
 - Added Beyond Skyrim - Wares of Tamriel
@@ -228,6 +228,9 @@
 - Removed Literally Unplayable - The Forgotten City Patch
 - Removed The Forgotten City - No Audiobooks
 - Fixed Nighteye not functioning properly with default Rudy ENB
+
+## Version 1.1.3
+- Made installable with latest Skyrim release
 
 ## Version 1.1.2.1
 - Removed Improved Camera optional due to beta being down
