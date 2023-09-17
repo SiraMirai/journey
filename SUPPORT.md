@@ -9,5 +9,3 @@
 ---
 # Support
 For any problems that you find, you can provide details on the [issues](https://github.com/SiraMirai/journey/issues) page. Please provide as many details as you can about the issue. including screenshots is always appreciated!
-
-You can also hop into the [Lost Outpost](https://discord.gg/WF66mMu) for support and discussion with our community members. 
