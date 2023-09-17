@@ -7,10 +7,7 @@
 </p>
 
 ---
-
-**Download Journey: [Journey.wabbajack](https://github.com/Lost-Outpost/journey/releases/download/1.1.2.1/Journey-1.1.2.1.wabbajack)**
-
-**Modlist Support: [Lost Outpost](https://discord.gg/WF66mMu)**
+ **2.0 now under development**
 
 - [Introduction](#about-journey)
 	- [Gameplay](#gameplay)
@@ -32,9 +29,9 @@
 
 # About Journey
 
-Journey is a lightweight modlist designed to give an enhanced graphical presentation that keeps the spirit of Skyrim's aesthetic and provide a cohesive lightweight gameplay overhaul with an optional survival component using Survival Mode and optional full Creation Club integration. Play an enhanced Skyrim experience with a few carefully selected additional quests, new lands, and companions included. Journey is designed to look and run beautifully, even on lower end systems.
+Journey is a vanilla+ modlist
 
-Journey is designed and made for Skyrim: Special Edition with full support for players with only the free Creation Club content or those who have the full Anniversary Edition content.
+Journey is designed and made for Skyrim: Anniversary Edition.
 
 ### Gameplay
 
@@ -42,20 +39,15 @@ Journey's aims with gameplay modification is to remain unintrusive while enhanci
 
 ### Discussion and Support
 
-Support for Journey is offered in the [Lost Outpost](https://discord.gg/WF66mMu) or in the issues section of the Journey GitHub. If you have any questions, want to discuss gameplay, or if you find any mistakes in documentation, please report it in the Lost Outpost's support channel.
+**TBA**
 
 ### List Contents
 
-The full contents of Journey can be found [here](https://loadorderlibrary.com/lists/journey)
+The full contents of Journey will be made available closer to release.
 
 # Installation
 
 Installation is handled by [Wabbajack](https://www.wabbajack.org/#/) for a one-click install of the modlist. For first time users, Journey has one dependency that needs to be pre-installed.
-
-#### Stock Game
-Journey makes use of the **Stock Game** feature of MO2 and Wabbajack.
-
-What this means is that it will create a copy of a Skyrim installation within the Journey Installation folder, cleaned with everything required for the modlist to run included. This allows you to run Journey without conflict from files with other Wabbajack lists, Vortex files, or other Skyrim mod installations.
 
 ### Pre-Installation
 
@@ -120,5 +112,4 @@ Updating follows the same process as installing, simply select the same path and
 Before playing
 - Journey comes with several graphical presets included that you can read about [here](https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md#graphics-options).
 - Make sure you follow the guid for [setting up creation club content](https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md#anniversary-edition).
-- Choose what ENB or ReShade preset you want using [ENB Organizer](https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md#enb-organizer)
 - Journey also comes with several other optionals including alternative profiles and optional companions. You can read about them [here](https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md#optionals).
