@@ -8,6 +8,11 @@
 
 ---
 # Changelog
+
+## Version 2.0 - Destination
+- Complete rebuild
+- Full contents TBA
+
 ## Version 1.2.0 [Scrapped]
 - Changed Skyrim version to 1.6.353
 - Added Beyond Skyrim - Bruma
